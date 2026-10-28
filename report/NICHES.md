@@ -1,39 +1,31 @@
-# Радар ниш YouTube — 27.10.2026 15:31
+# Радар ниш YouTube — 28.10.2026 16:14
 
-Рынки: США, СНГ, Германия, Испания · видео за 7 дн. · только видео от 15 мин · проанализировано 1895 видео · аномалий 208 · квота 8305
+Рынки: США, СНГ, Германия, Испания · видео за 7 дн. · только видео от 15 мин · проанализировано 1934 видео · аномалий 209 · квота 8307
 
 | # | Ниша | Тренд | Каналов | Медиана просм. | Медиана подп. | Просм./подп. | Молодых | Пример |
 |---|---|---|---|---|---|---|---|---|
-| 1 | **документальный фильм** <br><sub>фильм</sub> | +1 кан. | 12 | 39.1K | 3.5K | ×15.5 | 50% | [ДИКАЯ СУМАТРА / Враг, которого тигр не убьёт быстр](https://youtu.be/fWcEiLMJ1Yw) |
-| 2 | **history documentary** | вернулась | 3 | 126.8K | 3.5K | ×66.3 | 67% | [Stauffenberg / La historia real del atentado contr](https://youtu.be/vfjOfJTYVzQ) |
-| 3 | **que** <br><sub>todo</sub> | +0 кан. | 8 | 83.5K | 2.9K | ×29.8 | 50% | [LA SALSA QUE HIZO HISTORIA 🔥 Grupo Niche, Guayacán](https://youtu.be/6kwlv-VwGnw) |
-| 4 | **qué la** | +0 кан. | 3 | 182.1K | 1.6K | ×91.2 | 33% | [Por Qué la Soyuz 11 Soviética Regresó con Toda su ](https://youtu.be/V491tXDfdL4) |
-| 5 | **der** | -1 кан. | 10 | 31.8K | 956 | ×27.6 | 50% | [DEUTSCHE BAHN: Wie die pünktlichste Bahn der Welt ](https://youtu.be/aJdiiQs9Q8Q) |
-| 6 | **de españa** <br><sub>españa</sub> | НОВАЯ | 3 | 100.5K | 3.0K | ×33.6 | 67% | [Cada título nobiliario de España explicado](https://youtu.be/cQp6Ml8OxNo) |
-| 7 | **wildlife documentary** <br><sub>animal documentary, nature documentary, animal kingdom</sub> | -1 кан. | 4 | 260.4K | 6.2K | ×49.9 | 25% | [THE GREAT FOX DISASTER! Two Angry Eagles Chase One](https://youtu.be/Xe-qx_UCanE) |
-| 8 | **del** <br><sub>más, del mundo, mundo</sub> | +0 кан. | 7 | 178.5K | 2.4K | ×47.7 | 43% | [Stauffenberg / La historia real del atentado contr](https://youtu.be/vfjOfJTYVzQ) |
-| 9 | **твоя жизнь** <br><sub>каждом, твоя</sub> | -1 кан. | 3 | 126.9K | 4.5K | ×21.2 | 67% | [Твоя Жизнь На Каждом Ранге В ВВС США](https://youtu.be/SWm9pws5qFo) |
-| 10 | **die** <br><sub>von</sub> | -1 кан. | 10 | 38.1K | 1.8K | ×26.3 | 40% | [ABZOCKE oder sinnvoll? Die E-Bike Inspektion einfa](https://youtu.be/UPeyAQTB058) |
-| 11 | **sie** <br><sub>aus</sub> | вернулась | 4 | 43.0K | 564 | ×67.9 | 75% | [Was Mit Ihrem Körper Im Geschlossenen Sarg Passier](https://youtu.be/jWRjHVBHhKU) |
-| 12 | **la historia** | +0 кан. | 3 | 120.0K | 873 | ×119.6 | 67% | [¿Por qué Argentina dejó de ser potencia? La histor](https://youtu.be/QVCeJURMU1Q) |
-| 13 | **дочь** | +0 кан. | 3 | 209.4K | 6.1K | ×34.4 | 67% | [Как на самом деле жила дочь Петра I — Елизавета Пе](https://youtu.be/x9JFKprfMS8) |
-| 14 | **con** | +0 кан. | 4 | 276.2K | 2.9K | ×302.7 | 50% | [Por Qué la Soyuz 11 Soviética Regresó con Toda su ](https://youtu.be/V491tXDfdL4) |
-| 15 | **completa** | НОВАЯ | 3 | 78.0K | 1.1K | ×97.2 | 33% | [Por qué secuestré a mi jefe / Comedia romántica co](https://youtu.be/0QiOHwe4Fgg) |
-| 16 | **las** | -1 кан. | 4 | 145.8K | 602 | ×228.3 | 25% | [Por qué las cocinas japonesas no tienen escurridor](https://youtu.be/XsN0fy6JGqQ) |
-| 17 | **real** | -1 кан. | 4 | 123.4K | 2.7K | ×66.2 | 75% | [¿Por qué Argentina dejó de ser potencia? La histor](https://youtu.be/QVCeJURMU1Q) |
-| 18 | **los** | +1 кан. | 4 | 192.3K | 4.2K | ×40.7 | 50% | [¿Por Qué los Indígenas No Tenían Barba? (Y los Esp](https://youtu.be/C5Yj6X9ac-Q) |
-| 19 | **para** | вернулась | 3 | 117.2K | 2.6K | ×44.2 | 67% | [Por qué las cocinas japonesas no tienen escurridor](https://youtu.be/XsN0fy6JGqQ) |
-| 20 | **россии** | НОВАЯ | 3 | 127.5K | 3.4K | ×29.2 | 67% | [ЧТО ПРОИСХОДИТ С ЭКОНОМИКОЙ РОССИИ? Почему растут ](https://youtu.be/AXDXaXKERyE) |
-| 21 | **naruto** | +0 кан. | 4 | 33.8K | 2.5K | ×12.7 | 75% | [What if Hokage Naruto trained Kid Naruto?](https://youtu.be/ekGY8b3JhiQ) |
-| 22 | **und** | +0 кан. | 4 | 82.8K | 2.1K | ×28.0 | 50% | [Über 4 Meter Unterschied beim Bremsen! Brembo, ATE](https://youtu.be/1_SN1Lnqw50) |
-| 23 | **den** | вернулась | 3 | 23.4K | 1.3K | ×30.7 | 67% | [Papst Leo XIV. bricht sein Schweigen: Geheimdossie](https://youtu.be/pbDqzoc9bsM) |
-| 24 | **after** | вернулась | 3 | 109.1K | 2.5K | ×13.3 | 33% | [What Happened to the Men Who Overthrew Haile Selas](https://youtu.be/Bdwig-T-QkE) |
-| 25 | **life** | вернулась | 4 | 23.5K | 4.7K | ×5.0 | 50% | [Kris Tyson’s Life Is Totally Ruined...](https://youtu.be/1ZsS3AGeO0g) |
-| 26 | **next** | -1 кан. | 3 | 139.8K | 12.6K | ×11.1 | 0% | [HE LEFT HIS DISABLED WIFE ALONE ON A LONELY ROAD… ](https://youtu.be/NHjNbM_fn6Y) |
-| 27 | **finally** | НОВАЯ | 3 | 172.3K | 15.0K | ×9.4 | 0% | [The Speed of Light (Finally) Explained in Depth](https://youtu.be/pQZH0xWXa_w) |
-| 28 | **истории** | НОВАЯ | 3 | 29.1K | 5.5K | ×7.5 | 33% | [London.exe - Истории айтишника из Google, инженера](https://youtu.be/rumXKALtyIk) |
-| 29 | **minecraft** | +0 кан. | 3 | 193.0K | 16.4K | ×12.0 | 33% | [How Badly Can I DESTROY a Minecraft World?](https://youtu.be/uiBSHacyW88) |
-| 30 | **ein** | -1 кан. | 3 | 74.7K | 14.4K | ×6.2 | 33% | [Was Mit Ihrem Körper Im Geschlossenen Sarg Passier](https://youtu.be/jWRjHVBHhKU) |
+| 1 | **документальный фильм** <br><sub>фильм</sub> | -1 кан. | 11 | 28.1K | 1.8K | ×18.2 | 55% | [Косатка против Белого медведя — БИТВА двух высших ](https://youtu.be/E1yqOLJOflY) |
+| 2 | **die** <br><sub>der, nie, von</sub> | +4 кан. | 14 | 56.3K | 2.5K | ×22.8 | 36% | [Meine Schwester lachte: „Du kannst das Kleid nie b](https://youtu.be/iC4wOUTEuoA) |
+| 3 | **billionaire** | вернулась | 3 | 160.8K | 2.8K | ×59.6 | 100% | [Billionaire Disguised as a Servant to Test a Rich ](https://youtu.be/eS_1-ZF--b8) |
+| 4 | **que** <br><sub>todo</sub> | +1 кан. | 9 | 79.9K | 3.2K | ×25.0 | 33% | [LA SALSA QUE HIZO HISTORIA 🔥 Grupo Niche, Guayacán](https://youtu.be/6kwlv-VwGnw) |
+| 5 | **wildlife documentary** <br><sub>wild animals, wildlife, nature documentary</sub> | +1 кан. | 5 | 183.4K | 3.3K | ×27.9 | 20% | [MONKEY GANG! 2 Cheeky Monkeys Turn a Leopard Into ](https://youtu.be/HpUEknLTysU) |
+| 6 | **del** <br><sub>más</sub> | -1 кан. | 6 | 153.6K | 2.4K | ×62.9 | 50% | [Finalmente descubren al asesino del Padre Patricio](https://youtu.be/CaQkdht_BwM) |
+| 7 | **aus** <br><sub>sie</sub> | вернулась | 6 | 78.4K | 3.1K | ×30.5 | 33% | [WARUM DIE GEISTIG ERWACHTEN AUS DER GESELLSCHAFT V](https://youtu.be/MEqxhKd_JHA) |
+| 8 | **las** | +0 кан. | 4 | 116.1K | 4.1K | ×167.3 | 50% | [¿Qué sucede si Trump pierde las elecciones de mita](https://youtu.be/k9astKrkJFY) |
+| 9 | **империи** | НОВАЯ | 3 | 88.9K | 2.5K | ×13.5 | 100% | [24 часа из жизни Султанской Дочери (в Османской Им](https://youtu.be/W1lXlwVqt7Y) |
+| 10 | **den** | +1 кан. | 4 | 27.3K | 1.3K | ×35.2 | 75% | [Papst Leo XIV. bricht sein Schweigen: Geheimdossie](https://youtu.be/pbDqzoc9bsM) |
+| 11 | **con** | +0 кан. | 4 | 80.0K | 2.1K | ×72.8 | 25% | [Juegos De Calle - ¡Reto de Llenar Botellas con las](https://youtu.be/ErEZ4rr_uFA) |
+| 12 | **wurde** <br><sub>geschichte doku</sub> | вернулась | 3 | 67.5K | 4.8K | ×33.9 | 33% | [DEUTSCHE BAHN: Wie die pünktlichste Bahn der Welt ](https://youtu.be/aJdiiQs9Q8Q) |
+| 13 | **real** | +0 кан. | 4 | 114.0K | 3.9K | ×19.9 | 50% | [¿Por qué Argentina dejó de ser potencia? La histor](https://youtu.be/QVCeJURMU1Q) |
+| 14 | **action** | НОВАЯ | 3 | 346.6K | 10.7K | ×22.9 | 33% | [🔥LUCY 2 (2026) / New Action Movie 2026 English / F](https://youtu.be/F-fUQB27uVA) |
+| 15 | **motivation** | НОВАЯ | 3 | 46.1K | 4.4K | ×10.1 | 33% | [Charity's & Laura's Geschichte / Mein Leben mit 30](https://youtu.be/wkF50YAywNM) |
+| 16 | **life** | +0 кан. | 4 | 25.8K | 4.7K | ×13.3 | 50% | [Kris Tyson’s Life Is Totally Ruined...](https://youtu.be/1ZsS3AGeO0g) |
+| 17 | **after** | +0 кан. | 3 | 74.4K | 2.7K | ×16.2 | 33% | [What Happened to Japan's 51 Royals After They Were](https://youtu.be/9zHe_uqS6Sc) |
+| 18 | **und** | +0 кан. | 4 | 91.6K | 3.2K | ×28.4 | 25% | [Fürst Johannes hinterließ 500 Millionen Dollar Sch](https://youtu.be/AWdOT7urvgw) |
+| 19 | **naruto** | +0 кан. | 4 | 21.4K | 2.4K | ×10.6 | 50% | [What if Hokage Naruto trained Kid Naruto?](https://youtu.be/ekGY8b3JhiQ) |
+| 20 | **das** | вернулась | 5 | 25.5K | 4.4K | ×6.7 | 0% | [Meine Schwester lachte: „Du kannst das Kleid nie b](https://youtu.be/iC4wOUTEuoA) |
+| 21 | **minecraft** | +0 кан. | 3 | 215.6K | 16.4K | ×12.5 | 33% | [How Badly Can I DESTROY a Minecraft World?](https://youtu.be/uiBSHacyW88) |
+| 22 | **ein** | +0 кан. | 3 | 95.8K | 14.4K | ×7.2 | 33% | [Was Mit Ihrem Körper Im Geschlossenen Sarg Passier](https://youtu.be/jWRjHVBHhKU) |
 
 Нажмите на нишу в таблице выше или прокрутите вниз — там каналы и видео по каждой нише.
 
@@ -41,308 +33,250 @@
 
 ### 1. документальный фильм
 Похожие темы: фильм  
-Каналов: 12 · медиана ×15.5 просмотров к подписчикам · молодых каналов 50%
+Каналов: 11 · медиана ×18.2 просмотров к подписчикам · молодых каналов 55%
 
-- [ДИКАЯ СУМАТРА / Враг, которого тигр не убьёт быстро / Документальный фильм о дик](https://youtu.be/fWcEiLMJ1Yw) — канал [Планета Хищников](https://www.youtube.com/channel/UCm4oRck4Kt73V5Ce5I6rmLQ) · 38.4K просм. / 231 подп. (×166) · канал создан 16 дн. назад · 29 мин · RU
-- [Косатка против Белого медведя — БИТВА двух высших хищников   / Документальный фи](https://youtu.be/E1yqOLJOflY) — канал [Инстинкт Природы](https://www.youtube.com/channel/UCojGSZ4CsOon-DLxaG86C8g) · 20.5K просм. / 133 подп. (×154) · 34 мин
-- [ДИКАЯ СИБИРЬ / Пристанище самых свирепых хищников / Документальный фильм](https://youtu.be/Bcq5VZGvc6E) — канал [дикая планета](https://www.youtube.com/channel/UCj-GyHK86s5zJEVP8jfbvYg) · 245.3K просм. / 4.2K подп. (×59) · канал создан 58 дн. назад · 23 мин · KZ
-- [Надежда Аллилуева: последняя ночь жены Сталина](https://youtu.be/U3Ae2GnPwoM) — канал [Без грифа](https://www.youtube.com/channel/UC03zog6GSC6oHfwXLUTLcHg) · 100.5K просм. / 3.8K подп. (×26) · канал создан 21 дн. назад · 41 мин · US
-- [Почему Через Конго Почти Невозможно Пройти: Самый Загадочный Лес Африки](https://youtu.be/FeSkETpexAs) — канал [Закрытый архив](https://www.youtube.com/channel/UC2wbp4DZHH6g_XjgsAcWR-g) · 148.1K просм. / 6.2K подп. (×24) · 36 мин · KZ
-- [Реальная Жизнь в Камбодже: ШОКИРУЮЩАЯ Традиция «Хижин Любви», Где Девушки Сами В](https://youtu.be/9kzURuDKvKI) — канал [РЕАЛЬНАЯ ЖИЗНЬ РУ](https://www.youtube.com/channel/UCMs2SUrxHI16cqyyQAUyWzw) · 31.3K просм. / 1.9K подп. (×16) · 28 мин · UA
-- [Почему вода — самое странное вещество во Вселенной? / Документальный фильм](https://youtu.be/5LEQ6Dj5Mw0) — канал [Тихая Вселенная](https://www.youtube.com/channel/UCGQF7BpwjqAZCT7kKyCOPfQ) · 26.8K просм. / 1.8K подп. (×15) · канал создан 26 дн. назад · 110 мин
-- [Реальная жизнь в ТАИЛАНДЕ: КРАЙНЯЯ бедность в северных деревнях, которую туристы](https://youtu.be/RZVUROs_IMw) — канал [Petrol Origins Русский](https://www.youtube.com/channel/UCDXgd3BCNXASCcxg26_ubxg) · 55.4K просм. / 4.0K подп. (×14) · 19 мин · RU
+- [Косатка против Белого медведя — БИТВА двух высших хищников   / Документальный фи](https://youtu.be/E1yqOLJOflY) — канал [Инстинкт Природы](https://www.youtube.com/channel/UCojGSZ4CsOon-DLxaG86C8g) · 24.8K просм. / 144 подп. (×172) · 34 мин
+- [Документальный фильм  "Кто ты , мама ?"](https://youtu.be/zRPO5X82ZYw) — канал [BySOBOL](https://www.youtube.com/channel/UCYHpC4F0aiaq2uAHmUX2eAg) · 15.2K просм. / 44 подп. (×152) · 39 мин
+- [ДИКИЙ ЯВАРИ / Чёрный ягуар против анаконды / Документальный фильм](https://youtu.be/UMNWHPSaJyg) — канал [Планета Хищников](https://www.youtube.com/channel/UCm4oRck4Kt73V5Ce5I6rmLQ) · 19.9K просм. / 236 подп. (×84) · канал создан 17 дн. назад · 29 мин · RU
+- [Аляска: Последний Рубеж / Документальный Фильм](https://youtu.be/3D94j7zoTFk) — канал [ЗАГАДОЧНАЯ ПЛАНЕТА](https://www.youtube.com/channel/UCkBiGUz_DqBisskxOBPSodg) · 22.0K просм. / 344 подп. (×64) · канал создан 8 дн. назад · 45 мин
+- [ДИКАЯ СИБИРЬ / Пристанище самых свирепых хищников / Документальный фильм](https://youtu.be/Bcq5VZGvc6E) — канал [дикая планета](https://www.youtube.com/channel/UCj-GyHK86s5zJEVP8jfbvYg) · 271.0K просм. / 4.3K подп. (×63) · канал создан 59 дн. назад · 23 мин · KZ
+- [Реальная жизнь в ТАИЛАНДЕ: КРАЙНЯЯ бедность в северных деревнях, которую туристы](https://youtu.be/RZVUROs_IMw) — канал [Petrol Origins Русский](https://www.youtube.com/channel/UCDXgd3BCNXASCcxg26_ubxg) · 73.9K просм. / 4.1K подп. (×18) · 19 мин · RU
+- [Реальная Жизнь в Камбодже: ШОКИРУЮЩАЯ Традиция «Хижин Любви», Где Девушки Сами В](https://youtu.be/9kzURuDKvKI) — канал [РЕАЛЬНАЯ ЖИЗНЬ РУ](https://www.youtube.com/channel/UCMs2SUrxHI16cqyyQAUyWzw) · 32.3K просм. / 2.0K подп. (×16) · 28 мин · UA
+- [Почему вода — самое странное вещество во Вселенной? / Документальный фильм](https://youtu.be/5LEQ6Dj5Mw0) — канал [Тихая Вселенная](https://www.youtube.com/channel/UCGQF7BpwjqAZCT7kKyCOPfQ) · 28.1K просм. / 1.8K подп. (×15) · канал создан 27 дн. назад · 110 мин
 
-### 2. history documentary
-Каналов: 3 · медиана ×66.3 просмотров к подписчикам · молодых каналов 67%
+### 2. die
+Похожие темы: der, nie, von, ganze  
+Каналов: 14 · медиана ×22.8 просмотров к подписчикам · молодых каналов 36%
 
-- [Stauffenberg / La historia real del atentado contra Hitler](https://youtu.be/vfjOfJTYVzQ) — канал [Free Movie Central Español](https://www.youtube.com/channel/UC83PjiHpndUTJGqtLZaYd4A) · 126.8K просм. / 1.1K подп. (×120) · канал создан 134 дн. назад · 92 мин · DE
-- [8 Things German Soldiers Found Strange About American Soldiers](https://youtu.be/3vdovqUqfi4) — канал [Doodle History](https://www.youtube.com/channel/UCEYElz-o1ES-2wRV7ZEYWTg) · 279.1K просм. / 4.2K подп. (×66) · 19 мин · US
-- [The ENTIRE History of Canada in 16 Minutes.](https://youtu.be/-yIpy0rXmII) — канал [Historiq ](https://www.youtube.com/channel/UCE46zGlSLJk3N8ptw0LQtGw) · 89.7K просм. / 3.5K подп. (×25) · канал создан 97 дн. назад · 16 мин · US
+- [Meine Schwester lachte: „Du kannst das Kleid nie bezahlen!“ – dann erkannte mich](https://youtu.be/iC4wOUTEuoA) — канал [RacheErzählt](https://www.youtube.com/channel/UC2PlAtdXA6SNFmNPE3B4nsA) · 22.7K просм. / 159 подп. (×143) · 16 мин · DE
+- [DEUTSCHE BAHN: Wie die pünktlichste Bahn der Welt absichtlich kaputtgespart wurd](https://youtu.be/aJdiiQs9Q8Q) — канал [Dunkle Historie](https://www.youtube.com/channel/UCRVQb2aIsAts9k50OCcAdUw) · 67.5K просм. / 621 подп. (×109) · канал создан 52 дн. назад · 18 мин
+- [WARUM DIE GEISTIG ERWACHTEN AUS DER GESELLSCHAFT VERSCHWINDEN — nach den Worten ](https://youtu.be/MEqxhKd_JHA) — канал [Jungs Psychologisches Vermächtnis](https://www.youtube.com/channel/UCSzC04YQTVC7s7XIKakJAng) · 60.9K просм. / 1.2K подп. (×49) · канал создан 8 дн. назад · 29 мин · DE
+- [Die wahre Geschichte von Erwin von Witzleben – Der Feldmarschall, der Hitler stü](https://youtu.be/c0I9cb8Bmks) — канал [Duty Life](https://www.youtube.com/channel/UCEzUyIzmpjUGhhZ7GPsH1uQ) · 37.9K просм. / 801 подп. (×47) · канал создан 14 дн. назад · 44 мин · ES
+- [Warum wählte die NATO-Armee diesen deutschen Lkw?](https://youtu.be/APeEu4vaNIs) — канал [Autobahn Mythen](https://www.youtube.com/channel/UCORrlEXNW6aOiQgZcJfAYQA) · 103.1K просм. / 2.4K подп. (×42) · 25 мин
+- [Dschingis Khan und die Mongolen: Warum sie 1242 aus Europa abzogen](https://youtu.be/ihgpI72C2oo) — канал [Die Welt in der Zeitleiste](https://www.youtube.com/channel/UCtt9TgJrYfhHbnjSqUZNWMA) · 95.9K просм. / 3.5K подп. (×27) · 15 мин · DE
+- [Die Geschichte der Tischler: Der Beruf hinter jedem Möbel – und hinter einer Bom](https://youtu.be/3kDvwDfEfIE) — канал [Berufsgeschichte](https://www.youtube.com/channel/UCpQvb96jFwW3gebK-Bqn9UQ) · 21.2K просм. / 816 подп. (×26) · канал создан 50 дн. назад · 18 мин
+- [8 Deutsche Schauspieler aus der DDR, Die Sich Das Leben Nahmen!](https://youtu.be/nfstQ8ySLTo) — канал [Hinter den Kulissen](https://www.youtube.com/channel/UCDeFjxZ69IEjPIZNBhRVcMw) · 51.8K просм. / 2.6K подп. (×20) · 25 мин · DE
 
-### 3. que
+### 3. billionaire
+Каналов: 3 · медиана ×59.6 просмотров к подписчикам · молодых каналов 100%
+
+- [Billionaire Disguised as a Servant to Test a Rich Family — What He Found Shocked](https://youtu.be/eS_1-ZF--b8) — канал [Emotional Life Stories](https://www.youtube.com/channel/UCxQnOIOxCScC8BVCWrWwABg) · 160.8K просм. / 1.1K подп. (×149) · канал создан 23 дн. назад · 18 мин · US
+- [The BILLIONAIRE Who Pretended to Be a Cripple to Test His Betrothed 2](https://youtu.be/vIqiyscpZz8) — канал [Danny Tales Production](https://www.youtube.com/channel/UCWZebNBtpUmh2tr_12n8euw) · 168.5K просм. / 2.8K подп. (×60) · канал создан 58 дн. назад · 34 мин
+- [The Penny Test 2- Billionaire Grandma Called "Senile" In Court… Then She Opened ](https://youtu.be/iwPu-I4HBQk) — канал [New Era of Movie](https://www.youtube.com/channel/UCTo6XBiA7rk8yA8ufdLl7uA) · 112.3K просм. / 8.2K подп. (×14) · канал создан 37 дн. назад · 34 мин · US
+
+### 4. que
 Похожие темы: todo  
-Каналов: 8 · медиана ×29.8 просмотров к подписчикам · молодых каналов 50%
+Каналов: 9 · медиана ×25.0 просмотров к подписчикам · молодых каналов 33%
 
-- [LA SALSA QUE HIZO HISTORIA 🔥 Grupo Niche, Guayacán, Adolescentes, Galy Galiano /](https://youtu.be/6kwlv-VwGnw) — канал [Ritmo Latino Clásico](https://www.youtube.com/channel/UCOVeigSyete5gs4optEB8Nw) · 530.1K просм. / 771 подп. (×687) · канал создан 157 дн. назад · 96 мин
-- [Vivir en Afganistán / La vida oculta de la que nadie habla / 4K](https://youtu.be/FrCtNkWML3k) — канал [Mundo en Persona](https://www.youtube.com/channel/UCPBfuM7oQI6ZGsSRGAg9Mug) · 90.5K просм. / 415 подп. (×218) · канал создан 6 дн. назад · 39 мин
-- [Que pasará cuando CAIGA Kim Jong Un en COREA DEL NORTE](https://youtu.be/K2ltjpHrHsA) — канал [Bajo El Régimen](https://www.youtube.com/channel/UCEsUUw0TT2EwTOQWqJKOQUA) · 178.5K просм. / 2.4K подп. (×75) · канал создан 38 дн. назад · 24 мин
-- [¿Cómo surgió la Península de Yucatán? / La tierra que antes estaba bajo el mar](https://youtu.be/Lw80lu7Xsac) — канал [Era Mesozoica](https://www.youtube.com/channel/UCjfk37HpqatVvHTc_LTT1bg) · 160.1K просм. / 4.5K подп. (×36) · канал создан 47 дн. назад · 36 мин · US
-- [Shakira HACE historia en Kirguistán y sus bailarines SUELTAN la bomba l que PASÓ](https://youtu.be/z2i_TOZTs2s) — канал [La Voz del Pasillo MX](https://www.youtube.com/channel/UCM-ryklE5OyB_lWCOhjoKuA) · 76.5K просм. / 3.2K подп. (×24) · 16 мин
-- [Todo lo que NO debería existir en el SISTEMA SOLAR explicado en 30 minutos](https://youtu.be/dW2zRmCla28) — канал [Astro Garabato](https://www.youtube.com/channel/UC-df36zxnWgXODp460K5nrg) · 19.3K просм. / 2.6K подп. (×7) · 30 мин · ES
-- [Nuevo Claude DUET: TODO lo que Debes Saber (explicado facil)](https://youtu.be/oDoenmPdLOM) — канал [Martín Toledo / IA & Automatización ](https://www.youtube.com/channel/UCwsP4_k3gYhRWz-1kTetgew) · 37.6K просм. / 10.2K подп. (×4) · 18 мин
-- [El Cerebro Humano Explicado: Qué Hace Cada Hemisferio (y el Mito que Todos Creen](https://youtu.be/Pe0ovRggHcE) — канал [Anatomia Secreta TV](https://www.youtube.com/channel/UC-TAWlSpn76cHFysaEkzHqA) · 38.5K просм. / 11.7K подп. (×3) · 55 мин
+- [LA SALSA QUE HIZO HISTORIA 🔥 Grupo Niche, Guayacán, Adolescentes, Galy Galiano /](https://youtu.be/6kwlv-VwGnw) — канал [Ritmo Latino Clásico](https://www.youtube.com/channel/UCOVeigSyete5gs4optEB8Nw) · 617.0K просм. / 903 подп. (×683) · канал создан 158 дн. назад · 96 мин
+- [Por Qué Tito Trinidad Perdió $63 Millones Sin Enterarse...No Tiene Nada Que Ver ](https://youtu.be/QNdFuNgHdnw) — канал [Fortunas del Mundo](https://www.youtube.com/channel/UCoIzyz3lcritb1YONkAyPvw) · 69.7K просм. / 795 подп. (×88) · 30 мин · ES
+- [Que pasará cuando CAIGA Kim Jong Un en COREA DEL NORTE](https://youtu.be/K2ltjpHrHsA) — канал [Bajo El Régimen](https://www.youtube.com/channel/UCEsUUw0TT2EwTOQWqJKOQUA) · 192.7K просм. / 2.5K подп. (×77) · канал создан 39 дн. назад · 24 мин
+- [¿Cómo surgió la Península de Yucatán? / La tierra que antes estaba bajo el mar](https://youtu.be/Lw80lu7Xsac) — канал [Era Mesozoica](https://www.youtube.com/channel/UCjfk37HpqatVvHTc_LTT1bg) · 198.2K просм. / 4.6K подп. (×43) · канал создан 48 дн. назад · 36 мин · US
+- [Shakira HACE historia en Kirguistán y sus bailarines SUELTAN la bomba l que PASÓ](https://youtu.be/z2i_TOZTs2s) — канал [La Voz del Pasillo MX](https://www.youtube.com/channel/UCM-ryklE5OyB_lWCOhjoKuA) · 80.1K просм. / 3.2K подп. (×25) · 16 мин
+- [YURIDIA – SI YO FUI LA MALA… ¿POR QUÉ FUI LA QUE MÁS LLORÓ? 💔 / 7 Canciones de D](https://youtu.be/gwSvZgj6do8) — канал [Raíces de Fe ](https://www.youtube.com/channel/UCv3LHcecEKczEYmulmj1haw) · 79.9K просм. / 10.5K подп. (×8) · 27 мин · US
+- [Todo lo que NO debería existir en el SISTEMA SOLAR explicado en 30 minutos](https://youtu.be/dW2zRmCla28) — канал [Astro Garabato](https://www.youtube.com/channel/UC-df36zxnWgXODp460K5nrg) · 20.3K просм. / 2.7K подп. (×7) · 30 мин · ES
+- [Nuevo Claude DUET: TODO lo que Debes Saber (explicado facil)](https://youtu.be/oDoenmPdLOM) — канал [Martín Toledo / IA & Automatización ](https://www.youtube.com/channel/UCwsP4_k3gYhRWz-1kTetgew) · 40.7K просм. / 10.4K подп. (×4) · 18 мин
 
-### 4. qué la
-Каналов: 3 · медиана ×91.2 просмотров к подписчикам · молодых каналов 33%
+### 5. wildlife documentary
+Похожие темы: wild animals, wildlife, nature documentary, animal documentary  
+Каналов: 5 · медиана ×27.9 просмотров к подписчикам · молодых каналов 20%
 
-- [Por Qué la Soyuz 11 Soviética Regresó con Toda su Tripulación Muerta](https://youtu.be/V491tXDfdL4) — канал [Caja Negra ](https://www.youtube.com/channel/UC54zabg_pIEFtGFbQZlfpVA) · 287.1K просм. / 380 подп. (×756) · канал создан 9 дн. назад · 22 мин
-- [Por Qué la Evolución Sigue Convirtiendo Animales en Lobos.](https://youtu.be/9fFXu1LToyM) — канал [Archivos Salvajes](https://www.youtube.com/channel/UC5ZdzXH5XDvnZ4HKNbz7Rqg) · 145.0K просм. / 1.6K подп. (×91) · 15 мин
-- [🤔 ¿POR QUÉ LA MATARON?](https://youtu.be/JfNrqzkhgX0) — канал [Topcito5](https://www.youtube.com/channel/UCVELu72wnDsGiZ62VPjxr1w) · 182.1K просм. / 19.5K подп. (×9) · 21 мин
+- [MONKEY GANG! 2 Cheeky Monkeys Turn a Leopard Into a JOKE! / Wildlife Documentary](https://youtu.be/HpUEknLTysU) — канал [Wildlife Documentary 8888](https://www.youtube.com/channel/UCd_1V3WMWeXE6bKjZ5RtwGA) · 196.4K просм. / 2.3K подп. (×84) · 20 мин · US
+- [WILD CONGO / Why Our Closest Relative Is Also a Killer / Wildlife Documentary](https://youtu.be/he8gBc_vzHQ) — канал [Tethered Wilds](https://www.youtube.com/channel/UCLyh8hfw76qA6WJa85UEAGg) · 183.4K просм. / 6.5K подп. (×28) · 30 мин · DE
+- [A Fennec Fox Gives Birth… But Her Pups Must Survive the Sahara / 4K Wildlife Doc](https://youtu.be/mEal_ZzI2NM) — канал [Festival Odyssey](https://www.youtube.com/channel/UCPgH5Gjm1e7zTKvZPV2W5eg) · 71.8K просм. / 2.6K подп. (×28) · канал создан 98 дн. назад · 18 мин · CH
+- [WILD DARIÉN / Why the Treetops Are a Death Trap / Wildlife Documentary](https://youtu.be/MCLFJStFEAU) — канал [Edge of Instinct](https://www.youtube.com/channel/UCxN4S2K-g9xAUraljEgm4rw) · 74.4K просм. / 3.3K подп. (×23) · 30 мин
+- [The Lynx Was Born to Hunt in Snow / North America's Deadliest Predators / Wildli](https://youtu.be/q0jV89SXj8Q) — канал [Primal Buzz](https://www.youtube.com/channel/UCJqWj6DtSJ8WBqEUjcxG5Uw) · 320.4K просм. / 17.6K подп. (×18) · 42 мин · US
 
-### 5. der
-Каналов: 10 · медиана ×27.6 просмотров к подписчикам · молодых каналов 50%
+### 6. del
+Похожие темы: más  
+Каналов: 6 · медиана ×62.9 просмотров к подписчикам · молодых каналов 50%
 
-- [DEUTSCHE BAHN: Wie die pünktlichste Bahn der Welt absichtlich kaputtgespart wurd](https://youtu.be/aJdiiQs9Q8Q) — канал [Dunkle Historie](https://www.youtube.com/channel/UCRVQb2aIsAts9k50OCcAdUw) · 63.7K просм. / 590 подп. (×108) · канал создан 51 дн. назад · 18 мин
-- [Der WAHRE Grund, warum Sie nach 60 nachts zum Pinkeln aufwachen!](https://youtu.be/VJ5VRT2f5vo) — канал [Dr. Elite Senior](https://www.youtube.com/channel/UCg1Gjks8IuxjwEeIncf41UQ) · 68.1K просм. / 740 подп. (×92) · канал создан 23 дн. назад · 26 мин · DE
-- [Der Urknall war KEINE Explosion! Es gibt keine Mitte des Universums. Erklärt](https://youtu.be/NhzizW6daek) — канал [Kosmos Erklärt](https://www.youtube.com/channel/UCyOUVH9fOKiV_UV7BBJHlnA) · 27.0K просм. / 417 подп. (×65) · канал создан 11 дн. назад · 24 мин · DE
-- [Die wahre Geschichte von Erwin von Witzleben – Der Feldmarschall, der Hitler stü](https://youtu.be/c0I9cb8Bmks) — канал [Duty Life](https://www.youtube.com/channel/UCEzUyIzmpjUGhhZ7GPsH1uQ) · 36.5K просм. / 759 подп. (×48) · канал создан 13 дн. назад · 44 мин · ES
-- [Der Copilot drehte den Frachtjet auf den Rücken / FedEx Flug 705, Memphis 1994](https://youtu.be/Srvzo326o50) — канал [Letzte Sekunden](https://www.youtube.com/channel/UCyB4QDkcreKsNFIdqwRazDQ) · 40.9K просм. / 1.3K подп. (×31) · 19 мин · DE
-- [Die Geschichte der Tischler: Der Beruf hinter jedem Möbel – und hinter einer Bom](https://youtu.be/3kDvwDfEfIE) — канал [Berufsgeschichte](https://www.youtube.com/channel/UCpQvb96jFwW3gebK-Bqn9UQ) · 19.5K просм. / 801 подп. (×24) · канал создан 49 дн. назад · 18 мин
-- [„Unterschreib hier, du schuldest mir dein Leben!“, sagte die kleine Tochter der ](https://youtu.be/HjZxpKwT8w8) — канал [Chandresh Machhi](https://www.youtube.com/channel/UCeftWVF1iujiTAtkxkmp1pA) · 19.9K просм. / 1.1K подп. (×18) · 51 мин
-- [Ringe der Macht / Finaler Trailer fast ein Hilfeschrei aus Mittelerde](https://youtu.be/B7bPGFWP1yo) — канал [Cinema Kratos](https://www.youtube.com/channel/UCcIFyCVsTNwABnWX1tTWagA) · 115.7K просм. / 18.8K подп. (×6) · 19 мин · DE
+- [Finalmente descubren al asesino del Padre Patricio: ¿quién es y cómo lo planeó?](https://youtu.be/CaQkdht_BwM) — канал [Pedro Justo Berrío: Amor e Historia](https://www.youtube.com/channel/UCCPQRC9utSBsWIe6jQbPAlg) · 87.9K просм. / 403 подп. (×218) · канал создан 11 дн. назад · 19 мин
+- [Vivir en HAITÍ: Dentro del País MÁS TEMIDO del Caribe / Documental 4K](https://youtu.be/r5Rt7DNW2-M) — канал [Interless ESP](https://www.youtube.com/channel/UCLcQXMUpggA6iD2NpwzrhDQ) · 65.4K просм. / 814 подп. (×80) · канал создан 53 дн. назад · 35 мин · ES
+- [Que pasará cuando CAIGA Kim Jong Un en COREA DEL NORTE](https://youtu.be/K2ltjpHrHsA) — канал [Bajo El Régimen](https://www.youtube.com/channel/UCEsUUw0TT2EwTOQWqJKOQUA) · 192.7K просм. / 2.5K подп. (×77) · канал создан 39 дн. назад · 24 мин
+- [COREA DEL NORTE / El País Más Prohibido del Mundo / Documental de Viajes](https://youtu.be/GRKWLw001T0) — канал [Jornadas Documentales](https://www.youtube.com/channel/UCTXWgxJN7XNK88ZKCCU01QA) · 114.5K просм. / 2.3K подп. (×49) · 70 мин
+- [El Motor Más Enorme del Mundo. ¿Cómo Funciona un Monstruo de 109.000 Caballos de](https://youtu.be/NdeJlG8Z5es) — канал [Dentro del Mecanismo](https://www.youtube.com/channel/UCDE6CkkzNE3eeR_epTCjtHg) · 264.1K просм. / 10.0K подп. (×26) · 23 мин
+- [ESPINAZO DEL DIABLO: La Carretera Más Salvaje y Peligrosa de México / Documental](https://youtu.be/o0oBaFQ5NTQ) — канал [Lugares Imposibles ](https://www.youtube.com/channel/UCZSOnOo0UNtLZMbF9bjG_zA) · 331.6K просм. / 14.3K подп. (×23) · 60 мин · US
 
-### 6. de españa
-Похожие темы: españa  
-Каналов: 3 · медиана ×33.6 просмотров к подписчикам · молодых каналов 67%
+### 7. aus
+Похожие темы: sie  
+Каналов: 6 · медиана ×30.5 просмотров к подписчикам · молодых каналов 33%
 
-- [Cada título nobiliario de España explicado](https://youtu.be/cQp6Ml8OxNo) — канал [HistoriaLoca](https://www.youtube.com/channel/UCrBOP3FGxsULJbBPa8DbJyg) · 191.5K просм. / 2.8K подп. (×70) · канал создан 21 дн. назад · 17 мин
-- [¿Por Qué el Submarino S-80 de España Puede Poner en Jaque a los Submarinos Nucle](https://youtu.be/v6CN2893BQA) — канал [La Mente del Futuro](https://www.youtube.com/channel/UCcQ_oUIQOgBQ6SAVd7_sKdQ) · 100.5K просм. / 3.0K подп. (×34) · канал создан 66 дн. назад · 23 мин · ES
-- [Camy: La Traición de Nestlé al Helado Más Querido de España](https://youtu.be/7Vn7dNXKkw0) — канал [Fin de Emisión](https://www.youtube.com/channel/UCiTi7X_iBHMcmNJRcFO3Tlg) · 23.0K просм. / 3.0K подп. (×8) · 18 мин · ES
+- [WARUM DIE GEISTIG ERWACHTEN AUS DER GESELLSCHAFT VERSCHWINDEN — nach den Worten ](https://youtu.be/MEqxhKd_JHA) — канал [Jungs Psychologisches Vermächtnis](https://www.youtube.com/channel/UCSzC04YQTVC7s7XIKakJAng) · 60.9K просм. / 1.2K подп. (×49) · канал создан 8 дн. назад · 29 мин · DE
+- [Er wirft sie aus seinem Leben – doch seine Frau ist heimlich schwanger](https://youtu.be/5IssPHa26uo) — канал [Herz des Mafioso](https://www.youtube.com/channel/UCDiH25YS1Dq2dZd9g16N_2A) · 17.7K просм. / 463 подп. (×38) · канал создан 20 дн. назад · 69 мин
+- [Fürst Johannes hinterließ 500 Millionen Dollar Schulden — was wurde aus Thurn un](https://youtu.be/AWdOT7urvgw) — канал [Moss Garner](https://www.youtube.com/channel/UC9vaRNjS4JPAkGaoiVADS_g) · 161.9K просм. / 4.8K подп. (×34) · 28 мин
+- [Dschingis Khan und die Mongolen: Warum sie 1242 aus Europa abzogen](https://youtu.be/ihgpI72C2oo) — канал [Die Welt in der Zeitleiste](https://www.youtube.com/channel/UCtt9TgJrYfhHbnjSqUZNWMA) · 95.9K просм. / 3.5K подп. (×27) · 15 мин · DE
+- [8 Deutsche Schauspieler aus der DDR, Die Sich Das Leben Nahmen!](https://youtu.be/nfstQ8ySLTo) — канал [Hinter den Kulissen](https://www.youtube.com/channel/UCDeFjxZ69IEjPIZNBhRVcMw) · 51.8K просм. / 2.6K подп. (×20) · 25 мин · DE
+- [Ringe der Macht / Finaler Trailer fast ein Hilfeschrei aus Mittelerde](https://youtu.be/B7bPGFWP1yo) — канал [Cinema Kratos](https://www.youtube.com/channel/UCcIFyCVsTNwABnWX1tTWagA) · 136.1K просм. / 18.8K подп. (×7) · 19 мин · DE
 
-### 7. wildlife documentary
-Похожие темы: animal documentary, nature documentary, animal kingdom, wild animals, wildlife  
-Каналов: 4 · медиана ×49.9 просмотров к подписчикам · молодых каналов 25%
+### 8. las
+Каналов: 4 · медиана ×167.3 просмотров к подписчикам · молодых каналов 50%
 
-- [THE GREAT FOX DISASTER! Two Angry Eagles Chase One Thief! / Wildlife Documentary](https://youtu.be/Xe-qx_UCanE) — канал [Wildlife Documentary 8888](https://www.youtube.com/channel/UCd_1V3WMWeXE6bKjZ5RtwGA) · 128.0K просм. / 1.8K подп. (×71) · 18 мин · US
-- [Predator vs Prey / The Deadly Ambush Hidden in the Savannah Shadows / Wildlife D](https://youtu.be/b9GDcpTN3gY) — канал [Hostile Planet](https://www.youtube.com/channel/UCMrvKDTb2p7wH5gafbDiWWg) · 380.5K просм. / 5.9K подп. (×64) · канал создан 120 дн. назад · 60 мин · US
-- [WILD MANÚ / Why Even the King of the Amazon Can Become Prey / Wildlife Documenta](https://youtu.be/K-2grzhFb-A) — канал [Tethered Wilds](https://www.youtube.com/channel/UCLyh8hfw76qA6WJa85UEAGg) · 231.1K просм. / 6.5K подп. (×36) · 31 мин · DE
-- [The Lynx Was Born to Hunt in Snow / North America's Deadliest Predators / Wildli](https://youtu.be/q0jV89SXj8Q) — канал [Primal Buzz](https://www.youtube.com/channel/UCJqWj6DtSJ8WBqEUjcxG5Uw) · 289.6K просм. / 17.5K подп. (×17) · 42 мин · US
+- [¿Qué sucede si Trump pierde las elecciones de mitad de mandato?](https://youtu.be/k9astKrkJFY) — канал [김나라](https://www.youtube.com/channel/UCUdvYYe3boTYBDhd0FvWLRQ) · 148.1K просм. / 421 подп. (×352) · 15 мин · US
+- [Juegos De Calle - ¡Reto de Llenar Botellas con las Manos! ¿Quién Ganará?](https://youtu.be/ErEZ4rr_uFA) — канал [TEAM HOLAKA](https://www.youtube.com/channel/UCikPnSOp4OhYMXw3Ic0sRxQ) · 30.2K просм. / 74 подп. (×302) · канал создан 20 дн. назад · 20 мин · US
+- [KONNAN CONFESÓ POR QUÉ EL MENCHO MATÓ A ANTONIO PEÑA Y LE CORTÓ LAS DOS PIERNAS](https://youtu.be/NYHGuUEA2M0) — канал [MEXICO PASADO EN VIDEO ](https://www.youtube.com/channel/UC1kVSGDdiwgTCk89577tM_w) · 474.5K просм. / 14.5K подп. (×33) · 68 мин
+- [El Libro de Enoc revela quiénes son las sirenas, y por qué fueron selladas bajo ](https://youtu.be/e-I9F9NH3e0) — канал [Enoc Vetado](https://www.youtube.com/channel/UCL3gnjDJuZPflnIqKAWrzuQ) · 84.1K просм. / 7.7K подп. (×11) · канал создан 57 дн. назад · 20 мин
 
-### 8. del
-Похожие темы: más, del mundo, mundo  
-Каналов: 7 · медиана ×47.7 просмотров к подписчикам · молодых каналов 43%
+### 9. империи
+Каналов: 3 · медиана ×13.5 просмотров к подписчикам · молодых каналов 100%
 
-- [Stauffenberg / La historia real del atentado contra Hitler](https://youtu.be/vfjOfJTYVzQ) — канал [Free Movie Central Español](https://www.youtube.com/channel/UC83PjiHpndUTJGqtLZaYd4A) · 126.8K просм. / 1.1K подп. (×120) · канал создан 134 дн. назад · 92 мин · DE
-- [Vivir en HAITÍ: Dentro del País MÁS TEMIDO del Caribe / Documental 4K](https://youtu.be/r5Rt7DNW2-M) — канал [Interless ESP](https://www.youtube.com/channel/UCLcQXMUpggA6iD2NpwzrhDQ) · 61.2K просм. / 792 подп. (×77) · канал создан 52 дн. назад · 35 мин · ES
-- [Que pasará cuando CAIGA Kim Jong Un en COREA DEL NORTE](https://youtu.be/K2ltjpHrHsA) — канал [Bajo El Régimen](https://www.youtube.com/channel/UCEsUUw0TT2EwTOQWqJKOQUA) · 178.5K просм. / 2.4K подп. (×75) · канал создан 38 дн. назад · 24 мин
-- [Los Helicópteros Más GIGANTES del Mundo: ¿CÓMO Se Mantienen en el Aire?](https://youtu.be/qbIvJYQKj1w) — канал [Mente Mecánica](https://www.youtube.com/channel/UCj7pCGXbePtKa_9SddhY18w) · 259.5K просм. / 5.4K подп. (×48) · 23 мин · ES
-- [COREA DEL NORTE / El País Más Prohibido del Mundo / Documental de Viajes](https://youtu.be/GRKWLw001T0) — канал [Jornadas Documentales](https://www.youtube.com/channel/UCTXWgxJN7XNK88ZKCCU01QA) · 84.0K просм. / 2.2K подп. (×39) · 70 мин
-- [El Motor Más Enorme del Mundo. ¿Cómo Funciona un Monstruo de 109.000 Caballos de](https://youtu.be/NdeJlG8Z5es) — канал [Dentro del Mecanismo](https://www.youtube.com/channel/UCDE6CkkzNE3eeR_epTCjtHg) · 228.1K просм. / 9.6K подп. (×24) · 23 мин
-- [ESPINAZO DEL DIABLO: La Carretera Más Salvaje y Peligrosa de México / Documental](https://youtu.be/o0oBaFQ5NTQ) — канал [Lugares Imposibles ](https://www.youtube.com/channel/UCZSOnOo0UNtLZMbF9bjG_zA) · 271.2K просм. / 14.1K подп. (×19) · 60 мин · US
+- [24 часа из жизни Султанской Дочери (в Османской Империи)](https://youtu.be/W1lXlwVqt7Y) — канал [ Восточные дни](https://www.youtube.com/channel/UCDhqyNWQwbRNlb6eFZnjDaQ) · 112.8K просм. / 1.4K подп. (×78) · канал создан 17 дн. назад · 37 мин
+- [Твоя Жизнь На Каждом Ранге В Российской Империи](https://youtu.be/w-v1vqfTmmM) — канал [ЧЕРНИЛА ИСТОРИИ](https://www.youtube.com/channel/UC0SBprwdClKuZYN2cCRvvBw) · 34.3K просм. / 2.5K подп. (×13) · канал создан 22 дн. назад · 18 мин
+- [POV: Твоя жизнь на каждом ранге Галактической Империи / Star Wars](https://youtu.be/kOaOxuNphog) — канал [Умный Джо](https://www.youtube.com/channel/UCFJETt44JKdUgAK0bDM6w6Q) · 88.9K просм. / 18.4K подп. (×5) · канал создан 124 дн. назад · 29 мин · US
 
-### 9. твоя жизнь
-Похожие темы: каждом, твоя  
-Каналов: 3 · медиана ×21.2 просмотров к подписчикам · молодых каналов 67%
+### 10. den
+Каналов: 4 · медиана ×35.2 просмотров к подписчикам · молодых каналов 75%
 
-- [Твоя Жизнь На Каждом Ранге В ВВС США](https://youtu.be/SWm9pws5qFo) — канал [ЧЕРНИЛА ИСТОРИИ](https://www.youtube.com/channel/UC0SBprwdClKuZYN2cCRvvBw) · 126.9K просм. / 2.5K подп. (×51) · канал создан 21 дн. назад · 17 мин
-- [POV: Твоя жизнь на каждом уровне Тёмного Механикума / Warhammer 40k](https://youtu.be/QVVPvbcYAAU) — канал [ИМПЕРИУМ ВОСХОЖДЕНИЕ](https://www.youtube.com/channel/UCuCnlA2tfSz6yvHUk5oCw7Q) · 94.9K просм. / 4.5K подп. (×21) · 36 мин
-- [POV: Твоя жизнь на каждом уровне ведьмака](https://youtu.be/5Lt3VFdJNQU) — канал [Умный Джо](https://www.youtube.com/channel/UCFJETt44JKdUgAK0bDM6w6Q) · 180.9K просм. / 17.8K подп. (×10) · канал создан 123 дн. назад · 26 мин · US
+- [Papst Leo XIV. bricht sein Schweigen: Geheimdossier erschüttert den Vatikan / Fi](https://youtu.be/pbDqzoc9bsM) — канал [oliew](https://www.youtube.com/channel/UClXGgjK0pFzed8KM-hddKtw) · 21.7K просм. / 352 подп. (×62) · канал создан 123 дн. назад · 26 мин
+- [WARUM DIE GEISTIG ERWACHTEN AUS DER GESELLSCHAFT VERSCHWINDEN — nach den Worten ](https://youtu.be/MEqxhKd_JHA) — канал [Jungs Psychologisches Vermächtnis](https://www.youtube.com/channel/UCSzC04YQTVC7s7XIKakJAng) · 60.9K просм. / 1.2K подп. (×49) · канал создан 8 дн. назад · 29 мин · DE
+- [Harry Kane schreibt Geschichte – München feiert den Ballon d’Or](https://youtu.be/gWuEbo2hCnA) — канал [FußballFokus](https://www.youtube.com/channel/UCO6vABPl9Bz8oIqR5QzF2qw) · 29.2K просм. / 1.3K подп. (×22) · канал создан 132 дн. назад · 22 мин
+- [Lao-tse: Das Leben kennt den Weg (auch wenn du ihn nicht siehst)](https://youtu.be/2HVJs1ARw38) — канал [Der weiche Weg](https://www.youtube.com/channel/UCTYgFTkp9RyPhwNUtll7AoQ) · 25.5K просм. / 4.4K подп. (×6) · 35 мин · DE
 
-### 10. die
-Похожие темы: von  
-Каналов: 10 · медиана ×26.3 просмотров к подписчикам · молодых каналов 40%
+### 11. con
+Каналов: 4 · медиана ×72.8 просмотров к подписчикам · молодых каналов 25%
 
-- [ABZOCKE oder sinnvoll? Die E-Bike Inspektion einfach erklärt](https://youtu.be/UPeyAQTB058) — канал [Harzer E-Bike](https://www.youtube.com/channel/UCLV-sBnf1IqxnTennKAMclQ) · 39.7K просм. / 315 подп. (×126) · 26 мин · DE
-- [DEUTSCHE BAHN: Wie die pünktlichste Bahn der Welt absichtlich kaputtgespart wurd](https://youtu.be/aJdiiQs9Q8Q) — канал [Dunkle Historie](https://www.youtube.com/channel/UCRVQb2aIsAts9k50OCcAdUw) · 63.7K просм. / 590 подп. (×108) · канал создан 51 дн. назад · 18 мин
-- [Die wahre Geschichte von Erwin von Witzleben – Der Feldmarschall, der Hitler stü](https://youtu.be/c0I9cb8Bmks) — канал [Duty Life](https://www.youtube.com/channel/UCEzUyIzmpjUGhhZ7GPsH1uQ) · 36.5K просм. / 759 подп. (×48) · канал создан 13 дн. назад · 44 мин · ES
-- [Warum wählte die NATO-Armee diesen deutschen Lkw?](https://youtu.be/APeEu4vaNIs) — канал [Autobahn Mythen](https://www.youtube.com/channel/UCORrlEXNW6aOiQgZcJfAYQA) · 97.9K просм. / 2.4K подп. (×41) · 25 мин
-- [Dschingis Khan und die Mongolen: Warum sie 1242 aus Europa abzogen](https://youtu.be/ihgpI72C2oo) — канал [Die Welt in der Zeitleiste](https://www.youtube.com/channel/UCtt9TgJrYfhHbnjSqUZNWMA) · 84.8K просм. / 3.0K подп. (×28) · 15 мин · DE
-- [Die Geschichte der Tischler: Der Beruf hinter jedem Möbel – und hinter einer Bom](https://youtu.be/3kDvwDfEfIE) — канал [Berufsgeschichte](https://www.youtube.com/channel/UCpQvb96jFwW3gebK-Bqn9UQ) · 19.5K просм. / 801 подп. (×24) · канал создан 49 дн. назад · 18 мин
-- [„Unterschreib hier, du schuldest mir dein Leben!“, sagte die kleine Tochter der ](https://youtu.be/HjZxpKwT8w8) — канал [Chandresh Machhi](https://www.youtube.com/channel/UCeftWVF1iujiTAtkxkmp1pA) · 19.9K просм. / 1.1K подп. (×18) · 51 мин
-- [Doch was dann geschah, konnten die Ärzte kaum glauben](https://youtu.be/TWBfkV1YV2U) — канал [Alltagshelden](https://www.youtube.com/channel/UCjwvLzizk5Cop2vm5qsAJCA) · 136.0K просм. / 12.4K подп. (×11) · 26 мин · DE
+- [Juegos De Calle - ¡Reto de Llenar Botellas con las Manos! ¿Quién Ganará?](https://youtu.be/ErEZ4rr_uFA) — канал [TEAM HOLAKA](https://www.youtube.com/channel/UCikPnSOp4OhYMXw3Ic0sRxQ) · 30.2K просм. / 74 подп. (×302) · канал создан 20 дн. назад · 20 мин · US
+- [Por Qué Tito Trinidad Perdió $63 Millones Sin Enterarse...No Tiene Nada Que Ver ](https://youtu.be/QNdFuNgHdnw) — канал [Fortunas del Mundo](https://www.youtube.com/channel/UCoIzyz3lcritb1YONkAyPvw) · 69.7K просм. / 795 подп. (×88) · 30 мин · ES
+- [ASÍ FUE COMO INTERCAMBIÉ MI VIDA CON IBAI LLANOS](https://youtu.be/vuoBEZuqqNY) — канал [Miquel Costa](https://www.youtube.com/channel/UCKb_sjEVuCX-XerGOOsBEBg) · 317.3K просм. / 5.5K подп. (×58) · 19 мин · ES
+- [ROBÉ LOS AUTOS POLICIALES PESADOS SWAT CON SONIC DE LA VIDA REAL EN GTA 5](https://youtu.be/SL2uGDVoufk) — канал [Trezo](https://www.youtube.com/channel/UCe5ObZuNNuMfecCVh2Cd_EQ) · 90.3K просм. / 3.5K подп. (×26) · 29 мин · ES
 
-### 11. sie
-Похожие темы: aus  
-Каналов: 4 · медиана ×67.9 просмотров к подписчикам · молодых каналов 75%
+### 12. wurde
+Похожие темы: geschichte doku  
+Каналов: 3 · медиана ×33.9 просмотров к подписчикам · молодых каналов 33%
 
-- [Was Mit Ihrem Körper Im Geschlossenen Sarg Passiert — Ein Bestatter Erklärt, Was](https://youtu.be/jWRjHVBHhKU) — канал [Heinrich Müller – Bestatter](https://www.youtube.com/channel/UCTRi3P9s22dMhKo1cobQhag) · 17.9K просм. / 58 подп. (×179) · канал создан 1 дн. назад · 15 мин
-- [Der WAHRE Grund, warum Sie nach 60 nachts zum Pinkeln aufwachen!](https://youtu.be/VJ5VRT2f5vo) — канал [Dr. Elite Senior](https://www.youtube.com/channel/UCg1Gjks8IuxjwEeIncf41UQ) · 68.1K просм. / 740 подп. (×92) · канал создан 23 дн. назад · 26 мин · DE
-- [Er wirft sie aus seinem Leben – doch seine Frau ist heimlich schwanger](https://youtu.be/5IssPHa26uo) — канал [Herz des Mafioso](https://www.youtube.com/channel/UCDiH25YS1Dq2dZd9g16N_2A) · 17.0K просм. / 389 подп. (×44) · канал создан 19 дн. назад · 69 мин
-- [Dschingis Khan und die Mongolen: Warum sie 1242 aus Europa abzogen](https://youtu.be/ihgpI72C2oo) — канал [Die Welt in der Zeitleiste](https://www.youtube.com/channel/UCtt9TgJrYfhHbnjSqUZNWMA) · 84.8K просм. / 3.0K подп. (×28) · 15 мин · DE
+- [DEUTSCHE BAHN: Wie die pünktlichste Bahn der Welt absichtlich kaputtgespart wurd](https://youtu.be/aJdiiQs9Q8Q) — канал [Dunkle Historie](https://www.youtube.com/channel/UCRVQb2aIsAts9k50OCcAdUw) · 67.5K просм. / 621 подп. (×109) · канал создан 52 дн. назад · 18 мин
+- [Fürst Johannes hinterließ 500 Millionen Dollar Schulden — was wurde aus Thurn un](https://youtu.be/AWdOT7urvgw) — канал [Moss Garner](https://www.youtube.com/channel/UC9vaRNjS4JPAkGaoiVADS_g) · 161.9K просм. / 4.8K подп. (×34) · 28 мин
+- [Wien 1683: Als Europa am Kahlenberg entschieden wurde I Der Film](https://youtu.be/ssOKrqSwE1k) — канал [Krieg & Krone](https://www.youtube.com/channel/UC5We-dqFbv4ChXS6A7CRVSQ) · 20.6K просм. / 5.0K подп. (×4) · 17 мин · CH
 
-### 12. la historia
-Каналов: 3 · медиана ×119.6 просмотров к подписчикам · молодых каналов 67%
+### 13. real
+Каналов: 4 · медиана ×19.9 просмотров к подписчикам · молодых каналов 50%
 
-- [¿Por qué Argentina dejó de ser potencia? La historia real](https://youtu.be/QVCeJURMU1Q) — канал [Curiosito](https://www.youtube.com/channel/UCii4DSfg0o5hu9r-zA1QbhQ) · 120.0K просм. / 873 подп. (×137) · канал создан 6 дн. назад · 19 мин · US
-- [Stauffenberg / La historia real del atentado contra Hitler](https://youtu.be/vfjOfJTYVzQ) — канал [Free Movie Central Español](https://www.youtube.com/channel/UC83PjiHpndUTJGqtLZaYd4A) · 126.8K просм. / 1.1K подп. (×120) · канал создан 134 дн. назад · 92 мин · DE
-- [¿Por Qué ESTADOS UNIDOS Lanzó las Bombas Atómicas sobre JAPÓN? / La Historia Com](https://youtu.be/R9ZjkhY640o) — канал [Time Historix](https://www.youtube.com/channel/UCCxmH1iDxmZU9Asf14zfHXQ) · 78.0K просм. / 802 подп. (×97) · 24 мин
+- [¿Por qué Argentina dejó de ser potencia? La historia real](https://youtu.be/QVCeJURMU1Q) — канал [Curiosito](https://www.youtube.com/channel/UCii4DSfg0o5hu9r-zA1QbhQ) · 137.6K просм. / 1.0K подп. (×136) · канал создан 7 дн. назад · 19 мин · US
+- [ROBÉ LOS AUTOS POLICIALES PESADOS SWAT CON SONIC DE LA VIDA REAL EN GTA 5](https://youtu.be/SL2uGDVoufk) — канал [Trezo](https://www.youtube.com/channel/UCe5ObZuNNuMfecCVh2Cd_EQ) · 90.3K просм. / 3.5K подп. (×26) · 29 мин · ES
+- [Can Paw Patrol Build a REAL Space Rocket Launchpad?](https://youtu.be/ussrL2kaTOo) — канал [KidSprinkle - Fun Learning Videos for Ki](https://www.youtube.com/channel/UCE3ThQcbnRXUmIFT-IXcxdg) · 198.7K просм. / 14.6K подп. (×14) · 29 мин · US
+- [Real Life Pokémon Park: What If Pokémon Existed in Real Life! - Sinnoh Region (R](https://youtu.be/Tl2RUmObGT8) — канал [PokéScope](https://www.youtube.com/channel/UC1wpjGADAzPdDka0xx5_yyg) · 17.3K просм. / 4.4K подп. (×4) · канал создан 154 дн. назад · 31 мин · US
 
-### 13. дочь
-Каналов: 3 · медиана ×34.4 просмотров к подписчикам · молодых каналов 67%
+### 14. action
+Каналов: 3 · медиана ×22.9 просмотров к подписчикам · молодых каналов 33%
 
-- [Как на самом деле жила дочь Петра I — Елизавета Петровна: роскошь, ночные балы и](https://youtu.be/x9JFKprfMS8) — канал [Спокойная история](https://www.youtube.com/channel/UCew1CQLNaUCuIQHf1B2IZ7g) · 234.5K просм. / 3.0K подп. (×79) · 116 мин · KZ
-- [Богатая глава фирмы прозрела: муж с любовницей мучают дочь на цепи, как пса! Кля](https://youtu.be/EF3Gv8R2rDg) — канал [Дорамы судьбы](https://www.youtube.com/channel/UCG9SGx90QgFS5eymc2JoDQQ) · 209.4K просм. / 6.1K подп. (×34) · канал создан 35 дн. назад · 79 мин · RU
-- [Нищий вышел из тюрьмы и увидел, как обижают дочь! Созвал 100 тысяч бойцов! Он — ](https://youtu.be/yUHXAer0Ix4) — канал [Китайские дорамы / Бог Войны](https://www.youtube.com/channel/UCcSVp02uX0sdVL873yffmpQ) · 184.9K просм. / 13.4K подп. (×14) · канал создан 82 дн. назад · 153 мин · RU
+- [🔥LUCY 2 (2026) / New Action Movie 2026 English / Full Hollywood Action Movie in ](https://youtu.be/F-fUQB27uVA) — канал [SE Shree Entertainment ](https://www.youtube.com/channel/UCUoCyV5atrmy1PbhwqbYY2w) · 346.6K просм. / 10.7K подп. (×32) · 95 мин · ES
+- [Secret Reveal! Spider-Man Bros Finds SCARYTEACHER & ZOMBIE Birthday! ( Action St](https://youtu.be/p2Oe5D3FWCY) — канал [FunGau TV](https://www.youtube.com/channel/UCeY7dZuitEHK90CP9wJ-t6A) · 432.2K просм. / 18.9K подп. (×23) · канал создан 152 дн. назад · 42 мин · US
+- [Pyro is Sleepwalking? Bolt and Flora Investigate the Mystery! / Dino Action Anim](https://youtu.be/G1eupke_PpM) — канал [BOLT Dino](https://www.youtube.com/channel/UCh7Pf2p9YwLu9OiYVs0yBPA) · 37.7K просм. / 2.2K подп. (×17) · 30 мин · US
 
-### 14. con
-Каналов: 4 · медиана ×302.7 просмотров к подписчикам · молодых каналов 50%
+### 15. motivation
+Каналов: 3 · медиана ×10.1 просмотров к подписчикам · молодых каналов 33%
 
-- [Por Qué la Soyuz 11 Soviética Regresó con Toda su Tripulación Muerta](https://youtu.be/V491tXDfdL4) — канал [Caja Negra ](https://www.youtube.com/channel/UC54zabg_pIEFtGFbQZlfpVA) · 287.1K просм. / 380 подп. (×756) · канал создан 9 дн. назад · 22 мин
-- [Por qué las cocinas japonesas no tienen escurridor de platos: 7 hábitos para aca](https://youtu.be/XsN0fy6JGqQ) — канал [El Método Escandinavo](https://www.youtube.com/channel/UCysNxfeWvK3fnI6n2f7_Rvw) · 146.7K просм. / 268 подп. (×547) · канал создан 30 дн. назад · 31 мин · US
-- [ASÍ FUE COMO INTERCAMBIÉ MI VIDA CON IBAI LLANOS](https://youtu.be/vuoBEZuqqNY) — канал [Miquel Costa](https://www.youtube.com/channel/UCKb_sjEVuCX-XerGOOsBEBg) · 308.2K просм. / 5.3K подп. (×58) · 19 мин · ES
-- [La Trágica Historia de los Hermanos Galvin – 6 Hermanos con Esquizofrenia](https://youtu.be/tzRbvkQcVS8) — канал [Historias Entre Paredes](https://www.youtube.com/channel/UC3ozG3K6Cgru6thH4G_hjVA) · 265.4K просм. / 12.2K подп. (×22) · 33 мин
+- [Charity's & Laura's Geschichte / Mein Leben mit 300 kg / DOPPELFOLGE / TLC Medic](https://youtu.be/wkF50YAywNM) — канал [TLC Medical](https://www.youtube.com/channel/UCbxa6eVhh-M-5YAeBpg8YPg) · 46.1K просм. / 1.8K подп. (×25) · канал создан 96 дн. назад · 84 мин · DE
+- [What If the 12-Year Presidency Rule Blocked Trump But Let Obama Run? 🤯 #obamapre](https://youtu.be/bLiUaAmNEs4) — канал [Lyon Brave](https://www.youtube.com/channel/UC2f9Z59lDR0xOdyaqN6NoRQ) · 103.7K просм. / 10.3K подп. (×10) · 115 мин · US
+- [Lao-tse: Das Leben kennt den Weg (auch wenn du ihn nicht siehst)](https://youtu.be/2HVJs1ARw38) — канал [Der weiche Weg](https://www.youtube.com/channel/UCTYgFTkp9RyPhwNUtll7AoQ) · 25.5K просм. / 4.4K подп. (×6) · 35 мин · DE
 
-### 15. completa
-Каналов: 3 · медиана ×97.2 просмотров к подписчикам · молодых каналов 33%
+### 16. life
+Каналов: 4 · медиана ×13.3 просмотров к подписчикам · молодых каналов 50%
 
-- [Por qué secuestré a mi jefe / Comedia romántica completa](https://youtu.be/0QiOHwe4Fgg) — канал [Free Movie Central Español](https://www.youtube.com/channel/UC83PjiHpndUTJGqtLZaYd4A) · 222.2K просм. / 1.1K подп. (×210) · канал создан 134 дн. назад · 88 мин · DE
-- [¿Por Qué ESTADOS UNIDOS Lanzó las Bombas Atómicas sobre JAPÓN? / La Historia Com](https://youtu.be/R9ZjkhY640o) — канал [Time Historix](https://www.youtube.com/channel/UCCxmH1iDxmZU9Asf14zfHXQ) · 78.0K просм. / 802 подп. (×97) · 24 мин
-- [Hope (2026) Película Completa en Español / Ciencia Ficción / Datos y Explicado](https://youtu.be/q1uJvBKhy1A) — канал [El Cine Descifrado](https://www.youtube.com/channel/UCJ1qvljRFKGVUozi54D-Hkg) · 26.8K просм. / 6.5K подп. (×4) · 203 мин · ES
+- [Kris Tyson’s Life Is Totally Ruined...](https://youtu.be/1ZsS3AGeO0g) — канал [UnderLens](https://www.youtube.com/channel/UCeAgVdjb0aFxTRcwPS5hiww) · 180.1K просм. / 8.7K подп. (×21) · 26 мин · US
+- [Your Life in a Ninja Clan](https://youtu.be/pt8kTsqsh98) — канал [POVrank](https://www.youtube.com/channel/UCLlDr81KwxWiD36MUNgKZ2w) · 20.5K просм. / 1.0K подп. (×20) · 23 мин · US
+- [Your Life at Every Level as Self Taught CyberScurity Specialist](https://youtu.be/cYvUu64l13U) — канал [KaiPov](https://www.youtube.com/channel/UCwFJ0nYfiNe-_CEZ6Po0Evg) · 31.1K просм. / 5.1K подп. (×6) · канал создан 86 дн. назад · 18 мин · US
+- [Real Life Pokémon Park: What If Pokémon Existed in Real Life! - Sinnoh Region (R](https://youtu.be/Tl2RUmObGT8) — канал [PokéScope](https://www.youtube.com/channel/UC1wpjGADAzPdDka0xx5_yyg) · 17.3K просм. / 4.4K подп. (×4) · канал создан 154 дн. назад · 31 мин · US
 
-### 16. las
-Каналов: 4 · медиана ×228.3 просмотров к подписчикам · молодых каналов 25%
+### 17. after
+Каналов: 3 · медиана ×16.2 просмотров к подписчикам · молодых каналов 33%
 
-- [Por qué las cocinas japonesas no tienen escurridor de platos: 7 hábitos para aca](https://youtu.be/XsN0fy6JGqQ) — канал [El Método Escandinavo](https://www.youtube.com/channel/UCysNxfeWvK3fnI6n2f7_Rvw) · 146.7K просм. / 268 подп. (×547) · канал создан 30 дн. назад · 31 мин · US
-- [¿Qué sucede si Trump pierde las elecciones de mitad de mandato?](https://youtu.be/k9astKrkJFY) — канал [김나라](https://www.youtube.com/channel/UCUdvYYe3boTYBDhd0FvWLRQ) · 144.8K просм. / 403 подп. (×359) · 15 мин · US
-- [¿Por Qué ESTADOS UNIDOS Lanzó las Bombas Atómicas sobre JAPÓN? / La Historia Com](https://youtu.be/R9ZjkhY640o) — канал [Time Historix](https://www.youtube.com/channel/UCCxmH1iDxmZU9Asf14zfHXQ) · 78.0K просм. / 802 подп. (×97) · 24 мин
-- [KONNAN CONFESÓ POR QUÉ EL MENCHO MATÓ A ANTONIO PEÑA Y LE CORTÓ LAS DOS PIERNAS](https://youtu.be/NYHGuUEA2M0) — канал [MEXICO PASADO EN VIDEO ](https://www.youtube.com/channel/UC1kVSGDdiwgTCk89577tM_w) · 423.5K просм. / 14.5K подп. (×29) · 68 мин
+- [What Happened to Japan's 51 Royals After They Were Made Commoners?](https://youtu.be/9zHe_uqS6Sc) — канал [THE DARK ROYAL ARCHIVE](https://www.youtube.com/channel/UCl9kFfnv3gX5jg4r0WnzLbQ) · 74.4K просм. / 2.7K подп. (×28) · 26 мин · US
+- [Austin GP Results in CHAOS After FIA Footage REVEALS What Happened!](https://youtu.be/CFjZEtX2kTI) — канал [Formula Stories](https://www.youtube.com/channel/UC1hjF8EdZlE5MWhvoZnsMgA) · 149.1K просм. / 9.2K подп. (×16) · 18 мин · US
+- [What If Naruto Was Banished After Bringing Sasuke Back](https://youtu.be/Y064E5s5_30) — канал [Ember Anime](https://www.youtube.com/channel/UCVGFyQRapo0NwuNayy96ikQ) · 19.1K просм. / 1.5K подп. (×13) · канал создан 123 дн. назад · 100 мин · US
 
-### 17. real
-Каналов: 4 · медиана ×66.2 просмотров к подписчикам · молодых каналов 75%
+### 18. und
+Каналов: 4 · медиана ×28.4 просмотров к подписчикам · молодых каналов 25%
 
-- [¿Por qué Argentina dejó de ser potencia? La historia real](https://youtu.be/QVCeJURMU1Q) — канал [Curiosito](https://www.youtube.com/channel/UCii4DSfg0o5hu9r-zA1QbhQ) · 120.0K просм. / 873 подп. (×137) · канал создан 6 дн. назад · 19 мин · US
-- [Stauffenberg / La historia real del atentado contra Hitler](https://youtu.be/vfjOfJTYVzQ) — канал [Free Movie Central Español](https://www.youtube.com/channel/UC83PjiHpndUTJGqtLZaYd4A) · 126.8K просм. / 1.1K подп. (×120) · канал создан 134 дн. назад · 92 мин · DE
-- [Can Paw Patrol Build a REAL Space Rocket Launchpad?](https://youtu.be/ussrL2kaTOo) — канал [KidSprinkle - Fun Learning Videos for Ki](https://www.youtube.com/channel/UCE3ThQcbnRXUmIFT-IXcxdg) · 181.2K просм. / 14.3K подп. (×13) · 29 мин · US
-- [Real Life Pokémon Park: What If Pokémon Existed in Real Life! - Paldea Region (R](https://youtu.be/LU3aTx5fZsA) — канал [PokéScope](https://www.youtube.com/channel/UC1wpjGADAzPdDka0xx5_yyg) · 16.8K просм. / 4.4K подп. (×4) · канал создан 153 дн. назад · 34 мин · US
+- [Fürst Johannes hinterließ 500 Millionen Dollar Schulden — was wurde aus Thurn un](https://youtu.be/AWdOT7urvgw) — канал [Moss Garner](https://www.youtube.com/channel/UC9vaRNjS4JPAkGaoiVADS_g) · 161.9K просм. / 4.8K подп. (×34) · 28 мин
+- [Eisenmangel-Drama! Warum Dein Eisenwert lügt und was Du tun kannst!](https://youtu.be/KL6PuLvKFeQ) — канал [Dr. med. Ulrich Selz - PODCAST](https://www.youtube.com/channel/UCxzgyZuun_T1STCW8Rjt4TQ) · 87.4K просм. / 2.9K подп. (×30) · 58 мин · DE
+- [Dschingis Khan und die Mongolen: Warum sie 1242 aus Europa abzogen](https://youtu.be/ihgpI72C2oo) — канал [Die Welt in der Zeitleiste](https://www.youtube.com/channel/UCtt9TgJrYfhHbnjSqUZNWMA) · 95.9K просм. / 3.5K подп. (×27) · 15 мин · DE
+- [Die Geschichte der Tischler: Der Beruf hinter jedem Möbel – und hinter einer Bom](https://youtu.be/3kDvwDfEfIE) — канал [Berufsgeschichte](https://www.youtube.com/channel/UCpQvb96jFwW3gebK-Bqn9UQ) · 21.2K просм. / 816 подп. (×26) · канал создан 50 дн. назад · 18 мин
 
-### 18. los
-Каналов: 4 · медиана ×40.7 просмотров к подписчикам · молодых каналов 50%
+### 19. naruto
+Каналов: 4 · медиана ×10.6 просмотров к подписчикам · молодых каналов 50%
 
-- [¿Por Qué los Indígenas No Tenían Barba? (Y los Españoles Sí)](https://youtu.be/C5Yj6X9ac-Q) — канал [Sobrevivir Sin Nada](https://www.youtube.com/channel/UCAMdB9EAB8GzU9Wt4faz5vg) · 125.2K просм. / 741 подп. (×169) · канал создан 31 дн. назад · 15 мин · ES
-- [Los Helicópteros Más GIGANTES del Mundo: ¿CÓMO Se Mantienen en el Aire?](https://youtu.be/qbIvJYQKj1w) — канал [Mente Mecánica](https://www.youtube.com/channel/UCj7pCGXbePtKa_9SddhY18w) · 259.5K просм. / 5.4K подп. (×48) · 23 мин · ES
-- [¿Por Qué el Submarino S-80 de España Puede Poner en Jaque a los Submarinos Nucle](https://youtu.be/v6CN2893BQA) — канал [La Mente del Futuro](https://www.youtube.com/channel/UCcQ_oUIQOgBQ6SAVd7_sKdQ) · 100.5K просм. / 3.0K подп. (×34) · канал создан 66 дн. назад · 23 мин · ES
-- [La Trágica Historia de los Hermanos Galvin – 6 Hermanos con Esquizofrenia](https://youtu.be/tzRbvkQcVS8) — канал [Historias Entre Paredes](https://www.youtube.com/channel/UC3ozG3K6Cgru6thH4G_hjVA) · 265.4K просм. / 12.2K подп. (×22) · 33 мин
+- [What if Hokage Naruto trained Kid Naruto?](https://youtu.be/ekGY8b3JhiQ) — канал [FTW Naru](https://www.youtube.com/channel/UC6K3qJ2sOy5ydxt8dsln_tg) · 49.9K просм. / 2.8K подп. (×18) · канал создан 178 дн. назад · 20 мин · CA
+- [What If Naruto Was Banished After Bringing Sasuke Back](https://youtu.be/Y064E5s5_30) — канал [Ember Anime](https://www.youtube.com/channel/UCVGFyQRapo0NwuNayy96ikQ) · 19.1K просм. / 1.5K подп. (×13) · канал создан 123 дн. назад · 100 мин · US
+- [WHAT IF NARUTO RETURNED FROM THE VALLEY OF THE END — BUT LOST ALL FEELINGS FOR S](https://youtu.be/0E-k14EdlA0) — канал [ChakraRewritten](https://www.youtube.com/channel/UCiWMbQT0KbfZWCUaDQ1Ajdg) · 16.4K просм. / 1.9K подп. (×9) · 85 мин
+- [WHAT IF MADARA HAD RAISED NARUTO AND IMPLANTED THE SHARINGAN IN HIM?](https://youtu.be/sdNvaN9SV4s) — канал [Emeverse Anime](https://www.youtube.com/channel/UCF3F_r56lwBdj1rGXQjZ6AA) · 23.6K просм. / 5.4K подп. (×4) · 27 мин · US
 
-### 19. para
-Каналов: 3 · медиана ×44.2 просмотров к подписчикам · молодых каналов 67%
+### 20. das
+Каналов: 5 · медиана ×6.7 просмотров к подписчикам · молодых каналов 0%
 
-- [Por qué las cocinas japonesas no tienen escurridor de platos: 7 hábitos para aca](https://youtu.be/XsN0fy6JGqQ) — канал [El Método Escandinavo](https://www.youtube.com/channel/UCysNxfeWvK3fnI6n2f7_Rvw) · 146.7K просм. / 268 подп. (×547) · канал создан 30 дн. назад · 31 мин · US
-- [Cómo México Construye 232 KM de DOBLE VÍA Para Llevar el Tren a Querétaro](https://youtu.be/1QI0qlbaSlg) — канал [Así lo Construyeron](https://www.youtube.com/channel/UCpOWwT-RJPuIPVr1aSRfZow) · 117.2K просм. / 2.6K подп. (×44) · канал создан 47 дн. назад · 20 мин · ES
-- [¡Trucos Secretos para Dueños de Mascotas! Cómo Cuidar a tu Mascota / RoboSoo Car](https://youtu.be/Xk4A0JCNS6s) — канал [RoboSoo Cartoon - Dibujos Animados](https://www.youtube.com/channel/UCgbwggoScIWRRQgRn9YEVng) · 52.1K просм. / 17.3K подп. (×3) · 63 мин · US
+- [Meine Schwester lachte: „Du kannst das Kleid nie bezahlen!“ – dann erkannte mich](https://youtu.be/iC4wOUTEuoA) — канал [RacheErzählt](https://www.youtube.com/channel/UC2PlAtdXA6SNFmNPE3B4nsA) · 22.7K просм. / 159 подп. (×143) · 16 мин · DE
+- [8 Deutsche Schauspieler aus der DDR, Die Sich Das Leben Nahmen!](https://youtu.be/nfstQ8ySLTo) — канал [Hinter den Kulissen](https://www.youtube.com/channel/UCDeFjxZ69IEjPIZNBhRVcMw) · 51.8K просм. / 2.6K подп. (×20) · 25 мин · DE
+- [Hof übernommen- warum ein Generationenkonflikt das beinahe verhindert hätte](https://youtu.be/ENoLWvnKYSU) — канал [visionagrar](https://www.youtube.com/channel/UCorCMH6qfeDvlZu3Lqr0r2A) · 95.8K просм. / 14.4K подп. (×7) · 33 мин
+- [Lao-tse: Das Leben kennt den Weg (auch wenn du ihn nicht siehst)](https://youtu.be/2HVJs1ARw38) — канал [Der weiche Weg](https://www.youtube.com/channel/UCTYgFTkp9RyPhwNUtll7AoQ) · 25.5K просм. / 4.4K подп. (×6) · 35 мин · DE
+- [HobbyHotel erklärt mir das Todeskorps von Krieg! / Warhammer 40K Lore](https://youtu.be/bwwpcav4sy0) — канал [Marie-Dominique](https://www.youtube.com/channel/UC75Rj780ixWogqXV6bfwR3w) · 19.8K просм. / 4.4K подп. (×5) · 32 мин · DE
 
-### 20. россии
-Каналов: 3 · медиана ×29.2 просмотров к подписчикам · молодых каналов 67%
+### 21. minecraft
+Каналов: 3 · медиана ×12.5 просмотров к подписчикам · молодых каналов 33%
 
-- [ЧТО ПРОИСХОДИТ С ЭКОНОМИКОЙ РОССИИ? Почему растут налоги и кто за это заплатит /](https://youtu.be/AXDXaXKERyE) — канал [Подкаст Светланы Беляевой](https://www.youtube.com/channel/UCrOrjNcFCKG175PT6qhpiNA) · 127.5K просм. / 2.5K подп. (×50) · 73 мин · RU
-- [ПРОДАЖА ДЕТЕЙ В РОССИИ: Мы выяснили как это работает /РАССЛЕДОВАНИЕ. Сетка/](https://youtu.be/HD6ZuMGsQYQ) — канал [Сетка](https://www.youtube.com/channel/UCIJb_fSCFMAMvVd5I7142yQ) · 420.6K просм. / 14.4K подп. (×29) · канал создан 74 дн. назад · 46 мин · RU
-- [ШЕРЕМЕТЕВЫ — Самый БОГАТЫЙ род России и граф, который ТАЙНО женился на крепостно](https://youtu.be/HtA9RijPHyw) — канал [Арсений Столбовой — Династии и власть](https://www.youtube.com/channel/UC9KrCEU4QYubHaHcyVQGung) · 31.2K просм. / 3.4K подп. (×9) · канал создан 42 дн. назад · 87 мин
+- [How Badly Can I DESTROY a Minecraft World?](https://youtu.be/uiBSHacyW88) — канал [KrakenBlitz](https://www.youtube.com/channel/UCeoolF2eDlKhFaaBBfa6Vkw) · 239.9K просм. / 5.0K подп. (×48) · канал создан 137 дн. назад · 18 мин
+- [I Mastered Every Minecraft Weapon](https://youtu.be/PxE6MTnnz-U) — канал [CoinMonke](https://www.youtube.com/channel/UCawSeY1uIXLi9TZhMsdbFWw) · 215.6K просм. / 17.2K подп. (×13) · 35 мин · US
+- [Wie mächtig war Simon Unge wirklich?](https://youtu.be/ZFew-VV9w9w) — канал [Wendepunkt](https://www.youtube.com/channel/UCMxruzMJ_rCTKM-Qsm8A3SA) · 81.4K просм. / 16.4K подп. (×5) · 30 мин · DE
 
-### 21. naruto
-Каналов: 4 · медиана ×12.7 просмотров к подписчикам · молодых каналов 75%
+### 22. ein
+Каналов: 3 · медиана ×7.2 просмотров к подписчикам · молодых каналов 33%
 
-- [What if Hokage Naruto trained Kid Naruto?](https://youtu.be/ekGY8b3JhiQ) — канал [FTW Naru](https://www.youtube.com/channel/UC6K3qJ2sOy5ydxt8dsln_tg) · 44.5K просм. / 2.8K подп. (×16) · канал создан 177 дн. назад · 20 мин · CA
-- [What If Hinata Was Disowned and Naruto Took Her In?](https://youtu.be/K2NyYwMt-9o) — канал [MoshimoWentDifferently](https://www.youtube.com/channel/UC3tcbKpjLIUNnxXJE6DZDFQ) · 28.9K просм. / 2.2K подп. (×13) · канал создан 147 дн. назад · 91 мин
-- [What If Naruto Was Banished After Bringing Sasuke Back](https://youtu.be/Y064E5s5_30) — канал [Ember Anime](https://www.youtube.com/channel/UCVGFyQRapo0NwuNayy96ikQ) · 17.5K просм. / 1.4K подп. (×12) · канал создан 121 дн. назад · 100 мин · US
-- [What If Hagoromo Gave Naruto His Rinnegan Before Disappearing?](https://youtu.be/rJ-4ShC674I) — канал [Emeverse Anime](https://www.youtube.com/channel/UCF3F_r56lwBdj1rGXQjZ6AA) · 38.7K просм. / 5.3K подп. (×7) · 25 мин · US
-
-### 22. und
-Каналов: 4 · медиана ×28.0 просмотров к подписчикам · молодых каналов 50%
-
-- [Über 4 Meter Unterschied beim Bremsen! Brembo, ATE und Textar im 60.000-km-Test](https://youtu.be/1_SN1Lnqw50) — канал [Autowerkstatt](https://www.youtube.com/channel/UC2LhngRENd7_FwSLJqbui4w) · 411.9K просм. / 1.4K подп. (×303) · канал создан 17 дн. назад · 20 мин · DE
-- [Dschingis Khan und die Mongolen: Warum sie 1242 aus Europa abzogen](https://youtu.be/ihgpI72C2oo) — канал [Die Welt in der Zeitleiste](https://www.youtube.com/channel/UCtt9TgJrYfhHbnjSqUZNWMA) · 84.8K просм. / 3.0K подп. (×28) · 15 мин · DE
-- [Eisenmangel-Drama! Warum Dein Eisenwert lügt und was Du tun kannst!](https://youtu.be/KL6PuLvKFeQ) — канал [Dr. med. Ulrich Selz - PODCAST](https://www.youtube.com/channel/UCxzgyZuun_T1STCW8Rjt4TQ) · 80.9K просм. / 2.9K подп. (×28) · 58 мин · DE
-- [Die Geschichte der Tischler: Der Beruf hinter jedem Möbel – und hinter einer Bom](https://youtu.be/3kDvwDfEfIE) — канал [Berufsgeschichte](https://www.youtube.com/channel/UCpQvb96jFwW3gebK-Bqn9UQ) · 19.5K просм. / 801 подп. (×24) · канал создан 49 дн. назад · 18 мин
-
-### 23. den
-Каналов: 3 · медиана ×30.7 просмотров к подписчикам · молодых каналов 67%
-
-- [Papst Leo XIV. bricht sein Schweigen: Geheimdossier erschüttert den Vatikan / Fi](https://youtu.be/pbDqzoc9bsM) — канал [oliew](https://www.youtube.com/channel/UClXGgjK0pFzed8KM-hddKtw) · 18.7K просм. / 351 подп. (×53) · канал создан 122 дн. назад · 26 мин
-- [Der Copilot drehte den Frachtjet auf den Rücken / FedEx Flug 705, Memphis 1994](https://youtu.be/Srvzo326o50) — канал [Letzte Sekunden](https://www.youtube.com/channel/UCyB4QDkcreKsNFIdqwRazDQ) · 40.9K просм. / 1.3K подп. (×31) · 19 мин · DE
-- [Harry Kane schreibt Geschichte – München feiert den Ballon d’Or](https://youtu.be/gWuEbo2hCnA) — канал [FußballFokus](https://www.youtube.com/channel/UCO6vABPl9Bz8oIqR5QzF2qw) · 23.4K просм. / 1.3K подп. (×18) · канал создан 131 дн. назад · 22 мин
-
-### 24. after
-Каналов: 3 · медиана ×13.3 просмотров к подписчикам · молодых каналов 33%
-
-- [What Happened to the Men Who Overthrew Haile Selassie After They Took Power?](https://youtu.be/Bdwig-T-QkE) — канал [THE DARK ROYAL ARCHIVE](https://www.youtube.com/channel/UCl9kFfnv3gX5jg4r0WnzLbQ) · 109.1K просм. / 2.5K подп. (×43) · 26 мин · US
-- [Austin GP Results in CHAOS After FIA Footage REVEALS What Happened!](https://youtu.be/CFjZEtX2kTI) — канал [Formula Stories](https://www.youtube.com/channel/UC1hjF8EdZlE5MWhvoZnsMgA) · 120.8K просм. / 9.1K подп. (×13) · 18 мин · US
-- [What If Naruto Was Banished After Bringing Sasuke Back](https://youtu.be/Y064E5s5_30) — канал [Ember Anime](https://www.youtube.com/channel/UCVGFyQRapo0NwuNayy96ikQ) · 17.5K просм. / 1.4K подп. (×12) · канал создан 121 дн. назад · 100 мин · US
-
-### 25. life
-Каналов: 4 · медиана ×5.0 просмотров к подписчикам · молодых каналов 50%
-
-- [Kris Tyson’s Life Is Totally Ruined...](https://youtu.be/1ZsS3AGeO0g) — канал [UnderLens](https://www.youtube.com/channel/UCeAgVdjb0aFxTRcwPS5hiww) · 177.3K просм. / 8.6K подп. (×21) · 26 мин · US
-- [Your Life at Every Level as Self Taught CyberScurity Specialist](https://youtu.be/cYvUu64l13U) — канал [KaiPov](https://www.youtube.com/channel/UCwFJ0nYfiNe-_CEZ6Po0Evg) · 26.0K просм. / 5.0K подп. (×5) · канал создан 85 дн. назад · 18 мин · US
-- [The DISTURBING Life of Mouth of Sauron (Entire Timeline)](https://youtu.be/0Yw7uQtiJiA) — канал [Sauron The White](https://www.youtube.com/channel/UCmswCtt5aDnRq48rzwowrdg) · 21.1K просм. / 4.3K подп. (×5) · 30 мин · US
-- [Real Life Pokémon Park: What If Pokémon Existed in Real Life! - Paldea Region (R](https://youtu.be/LU3aTx5fZsA) — канал [PokéScope](https://www.youtube.com/channel/UC1wpjGADAzPdDka0xx5_yyg) · 16.8K просм. / 4.4K подп. (×4) · канал создан 153 дн. назад · 34 мин · US
-
-### 26. next
-Каналов: 3 · медиана ×11.1 просмотров к подписчикам · молодых каналов 0%
-
-- [HE LEFT HIS DISABLED WIFE ALONE ON A LONELY ROAD… BUT HE NEVER EXPECTED WHAT HAP](https://youtu.be/NHjNbM_fn6Y) — канал [Lantern Reel](https://www.youtube.com/channel/UCiZs8PRGQ6AMoBFy9U1DRbQ) · 616.3K просм. / 9.3K подп. (×66) · 36 мин
-- [Fire Lookout Filmed Dogman Hunting Bigfoot.. What Happened Next Was Terrifying](https://youtu.be/ibClZyEgxoM) — канал [The Dogman Files](https://www.youtube.com/channel/UCRMvuUO6K7XrURHFVr4p5GA) · 139.8K просм. / 12.6K подп. (×11) · 27 мин
-- [Liberal American Town Elects All Muslim City Council, What Happened Next SHOCKED](https://youtu.be/_wafa3FUmO0) — канал [Allied Nations](https://www.youtube.com/channel/UC61NGS4LIBA_jsCrFjx1dHA) · 115.6K просм. / 14.4K подп. (×8) · 20 мин · US
-
-### 27. finally
-Каналов: 3 · медиана ×9.4 просмотров к подписчикам · молодых каналов 0%
-
-- [The Speed of Light (Finally) Explained in Depth](https://youtu.be/pQZH0xWXa_w) — канал [Superluminal](https://www.youtube.com/channel/UCu2fMjPJT6G-35rKU4zaOsA) · 335.9K просм. / 2.1K подп. (×162) · 18 мин · ES
-- [What Bigfoot Really Is?! David Paulides Finally Gave His Answer](https://youtu.be/2G8jii8k-MQ) — канал [Cryptid Center](https://www.youtube.com/channel/UCA64eqfz7XiZjozStVvaIIQ) · 172.3K просм. / 18.3K подп. (×9) · 26 мин
-- [WE DID IT… Our Store Is FINALLY OPEN! 🥹](https://youtu.be/uL8PUceO3L8) — канал [The Velvet Noble](https://www.youtube.com/channel/UC34lLDxDP7Mpqyy2qqGSK4A) · 53.9K просм. / 15.0K подп. (×4) · 40 мин · US
-
-### 28. истории
-Каналов: 3 · медиана ×7.5 просмотров к подписчикам · молодых каналов 33%
-
-- [London.exe - Истории айтишника из Google, инженера Mars и финансиста / ДОКУМЕНТА](https://youtu.be/rumXKALtyIk) — канал [Khanzat Kenges](https://www.youtube.com/channel/UCkdrBt7lnf7-ADlePV4amvg) · 29.1K просм. / 3.5K подп. (×8) · 27 мин · KZ
-- [9 самых страшных терактов в истории](https://youtu.be/eZVHgWJnAqc) — канал [SHOCK BRO](https://www.youtube.com/channel/UCdZN_kIHeE4hxlsSMlM69IA) · 107.7K просм. / 14.3K подп. (×8) · 16 мин · DE
-- [Самые Запрещенные Празднования Голов в Истории](https://youtu.be/g495BWlk7ss) — канал [Объяснячь](https://www.youtube.com/channel/UCCtAs2RFlBl1HtlwE-nHiKQ) · 16.8K просм. / 5.5K подп. (×3) · канал создан 152 дн. назад · 16 мин
-
-### 29. minecraft
-Каналов: 3 · медиана ×12.0 просмотров к подписчикам · молодых каналов 33%
-
-- [How Badly Can I DESTROY a Minecraft World?](https://youtu.be/uiBSHacyW88) — канал [KrakenBlitz](https://www.youtube.com/channel/UCeoolF2eDlKhFaaBBfa6Vkw) · 193.0K просм. / 4.7K подп. (×41) · канал создан 136 дн. назад · 18 мин
-- [I Mastered Every Minecraft Weapon](https://youtu.be/PxE6MTnnz-U) — канал [CoinMonke](https://www.youtube.com/channel/UCawSeY1uIXLi9TZhMsdbFWw) · 204.6K просм. / 17.0K подп. (×12) · 35 мин · US
-- [Wie mächtig war Simon Unge wirklich?](https://youtu.be/ZFew-VV9w9w) — канал [Wendepunkt](https://www.youtube.com/channel/UCMxruzMJ_rCTKM-Qsm8A3SA) · 66.9K просм. / 16.4K подп. (×4) · 30 мин · DE
-
-### 30. ein
-Каналов: 3 · медиана ×6.2 просмотров к подписчикам · молодых каналов 33%
-
-- [Was Mit Ihrem Körper Im Geschlossenen Sarg Passiert — Ein Bestatter Erklärt, Was](https://youtu.be/jWRjHVBHhKU) — канал [Heinrich Müller – Bestatter](https://www.youtube.com/channel/UCTRi3P9s22dMhKo1cobQhag) · 17.9K просм. / 58 подп. (×179) · канал создан 1 дн. назад · 15 мин
-- [Ringe der Macht / Finaler Trailer fast ein Hilfeschrei aus Mittelerde](https://youtu.be/B7bPGFWP1yo) — канал [Cinema Kratos](https://www.youtube.com/channel/UCcIFyCVsTNwABnWX1tTWagA) · 115.7K просм. / 18.8K подп. (×6) · 19 мин · DE
-- [Hof übernommen- warum ein Generationenkonflikt das beinahe verhindert hätte](https://youtu.be/ENoLWvnKYSU) — канал [visionagrar](https://www.youtube.com/channel/UCorCMH6qfeDvlZu3Lqr0r2A) · 74.7K просм. / 14.4K подп. (×5) · 33 мин
+- [Was Mit Ihrem Körper Im Geschlossenen Sarg Passiert — Ein Bestatter Erklärt, Was](https://youtu.be/jWRjHVBHhKU) — канал [Heinrich Müller – Bestatter](https://www.youtube.com/channel/UCTRi3P9s22dMhKo1cobQhag) · 55.0K просм. / 107 подп. (×514) · канал создан 2 дн. назад · 15 мин
+- [Ringe der Macht / Finaler Trailer fast ein Hilfeschrei aus Mittelerde](https://youtu.be/B7bPGFWP1yo) — канал [Cinema Kratos](https://www.youtube.com/channel/UCcIFyCVsTNwABnWX1tTWagA) · 136.1K просм. / 18.8K подп. (×7) · 19 мин · DE
+- [Hof übernommen- warum ein Generationenkonflikt das beinahe verhindert hätte](https://youtu.be/ENoLWvnKYSU) — канал [visionagrar](https://www.youtube.com/channel/UCorCMH6qfeDvlZu3Lqr0r2A) · 95.8K просм. / 14.4K подп. (×7) · 33 мин
 
 ## Топ-50 видео-аномалий
 
 | Видео | Канал | Подп. | Просм. | ×Рост | Канал, дн. |
 |---|---|---|---|---|---|
-| [how to make a machete handle from wood](https://youtu.be/y3oLOxDeapo) | [Blacksmith steel](https://www.youtube.com/channel/UC-nCZQGsg5xAN5pySclzTbw) | 1.1K | 3.1M | ×2746 | 27 |
-| [Por Qué la Soyuz 11 Soviética Regresó con Toda su Tripulació](https://youtu.be/V491tXDfdL4) | [Caja Negra ](https://www.youtube.com/channel/UC54zabg_pIEFtGFbQZlfpVA) | 380 | 287.1K | ×756 | 9 |
-| [LA SALSA QUE HIZO HISTORIA 🔥 Grupo Niche, Guayacán, Adolesce](https://youtu.be/6kwlv-VwGnw) | [Ritmo Latino Clásico](https://www.youtube.com/channel/UCOVeigSyete5gs4optEB8Nw) | 771 | 530.1K | ×687 | 157 |
-| [Por qué las cocinas japonesas no tienen escurridor de platos](https://youtu.be/XsN0fy6JGqQ) | [El Método Escandinavo](https://www.youtube.com/channel/UCysNxfeWvK3fnI6n2f7_Rvw) | 268 | 146.7K | ×547 | 30 |
-| [¿Qué sucede si Trump pierde las elecciones de mitad de manda](https://youtu.be/k9astKrkJFY) | [김나라](https://www.youtube.com/channel/UCUdvYYe3boTYBDhd0FvWLRQ) | 403 | 144.8K | ×359 | 687 |
-| [Über 4 Meter Unterschied beim Bremsen! Brembo, ATE und Texta](https://youtu.be/1_SN1Lnqw50) | [Autowerkstatt](https://www.youtube.com/channel/UC2LhngRENd7_FwSLJqbui4w) | 1.4K | 411.9K | ×303 | 17 |
-| [WTF Happened to Labubu?](https://youtu.be/V6-3wqQoxT0) | [Fortune & Fall](https://www.youtube.com/channel/UCDVhAmEXRKrJLTsKSAF-hBQ) | 2.5K | 744.2K | ×293 | 16 |
-| [Kamla / EP 01: Mama Ki Khoj / Kamla Horror Story / Bittu Sit](https://youtu.be/CkjweEHq1_k) | [Theuzaircartoon](https://www.youtube.com/channel/UCze5QgWlT4s-NflSeVffnYg) | 843 | 241.0K | ×286 | 14 |
-| [RETO RICA vs POBRE: ¡Mi HERMANA me ABANDONÓ por DINERO! 💔 Ka](https://youtu.be/RRWgkReRlYA) | [Mohd Fadzir](https://www.youtube.com/channel/UC3SWNR949OlPb-U5A7OCROQ) | 393 | 91.9K | ×234 | 2294 |
-| [¿Por qué Jesús llamó «MUJER» a su propia madre? El verdadero](https://youtu.be/FmqYOSc9MGA) | [Biblia Revelada](https://www.youtube.com/channel/UCvnUKTt1KrOoEjdT8cOGFfQ) | 555 | 122.4K | ×221 | 71 |
-| [Vivir en Afganistán / La vida oculta de la que nadie habla /](https://youtu.be/FrCtNkWML3k) | [Mundo en Persona](https://www.youtube.com/channel/UCPBfuM7oQI6ZGsSRGAg9Mug) | 415 | 90.5K | ×218 | 6 |
-| [Как заменить GPON оборудование провайдера на своё](https://youtu.be/MMGowb5Ghdo) | [Cетевые Модификации](https://www.youtube.com/channel/UCp_Dd5F8-b9JG607Ge_1a3Q) | 1.8K | 385.2K | ×210 | 2271 |
-| [Por qué secuestré a mi jefe / Comedia romántica completa](https://youtu.be/0QiOHwe4Fgg) | [Free Movie Central Español](https://www.youtube.com/channel/UC83PjiHpndUTJGqtLZaYd4A) | 1.1K | 222.2K | ×210 | 134 |
-| [SHOPPING-BUDGET FÜR BOTOX?! 😳 Guido gibt 0 Punkte! / Shoppin](https://youtu.be/0T8QOwU9Nok) | [Shopping Queen](https://www.youtube.com/channel/UCD9uprmvdOQqokd-NTaTCCw) | 8.7K | 1.7M | ×200 | 25 |
-| [АТЕРОСКЛЕРОЗ Боится Эту РЫБУ КАК ОГНЯ - Выжигает Холестерин ](https://youtu.be/uIyc_I08lQ0) | [Энергия Жизни](https://www.youtube.com/channel/UCYO0Jm1yNXXnBXMDgE5AaNg) | 2.2K | 392.5K | ×182 | 1888 |
-| [The Friendship Files / How Modi and Adani Stole India / Full](https://youtu.be/pyTcZbMf31o) | [I for India](https://www.youtube.com/channel/UCWA23kHRrWlKAAa5DMQ5ABg) | 781 | 140.7K | ×180 | 3876 |
-| [Was Mit Ihrem Körper Im Geschlossenen Sarg Passiert — Ein Be](https://youtu.be/jWRjHVBHhKU) | [Heinrich Müller – Bestatter](https://www.youtube.com/channel/UCTRi3P9s22dMhKo1cobQhag) | 58 | 17.9K | ×179 | 1 |
-| [¿Por Qué los Indígenas No Tenían Barba? (Y los Españoles Sí)](https://youtu.be/C5Yj6X9ac-Q) | [Sobrevivir Sin Nada](https://www.youtube.com/channel/UCAMdB9EAB8GzU9Wt4faz5vg) | 741 | 125.2K | ×169 | 31 |
-| [ДИКАЯ СУМАТРА / Враг, которого тигр не убьёт быстро / Докуме](https://youtu.be/fWcEiLMJ1Yw) | [Планета Хищников](https://www.youtube.com/channel/UCm4oRck4Kt73V5Ce5I6rmLQ) | 231 | 38.4K | ×166 | 16 |
-| [The Speed of Light (Finally) Explained in Depth](https://youtu.be/pQZH0xWXa_w) | [Superluminal](https://www.youtube.com/channel/UCu2fMjPJT6G-35rKU4zaOsA) | 2.1K | 335.9K | ×162 | 481 |
-| [Косатка против Белого медведя — БИТВА двух высших хищников  ](https://youtu.be/E1yqOLJOflY) | [Инстинкт Природы](https://www.youtube.com/channel/UCojGSZ4CsOon-DLxaG86C8g) | 133 | 20.5K | ×154 | 7106 |
-| [What Would Smosh Do? / Introducing the new cast!](https://youtu.be/_YxnVKGdc5Q) | [ScreenRant Studio](https://www.youtube.com/channel/UCtOYTcW2lnuV2-8yEyH88Ww) | 2.5K | 340.1K | ×139 | 508 |
-| [Жуткая Правда о Смерти Виктора Цоя. Что произошло на самом д](https://youtu.be/G7fMlfNhAM0) | [Тёмная Репутация](https://www.youtube.com/channel/UCubDV1X00RNplrMXB-SXBYQ) | 767 | 105.9K | ×138 | 25 |
-| [¿Por qué Argentina dejó de ser potencia? La historia real](https://youtu.be/QVCeJURMU1Q) | [Curiosito](https://www.youtube.com/channel/UCii4DSfg0o5hu9r-zA1QbhQ) | 873 | 120.0K | ×137 | 6 |
-| [Brain Power  Test / Can You Solve This ? Live / Hameed Asmr ](https://youtu.be/_JhC21lf2Bk) | [Hameed Asmr](https://www.youtube.com/channel/UCChJJlzuFUc5G2MzVnPYRww) | 12.8K | 1.7M | ×133 | 62 |
-| [ABZOCKE oder sinnvoll? Die E-Bike Inspektion einfach erklärt](https://youtu.be/UPeyAQTB058) | [Harzer E-Bike](https://www.youtube.com/channel/UCLV-sBnf1IqxnTennKAMclQ) | 315 | 39.7K | ×126 | 1482 |
-| [Premada Oorali Kannada Full Movie (2026) Shree Ram / Thapasw](https://youtu.be/RgZEemVlPvk) | [Katana Movies](https://www.youtube.com/channel/UC0ypzRsVigugVi_puWag-LA) | 6.9K | 834.8K | ×122 | 33 |
-| [Stauffenberg / La historia real del atentado contra Hitler](https://youtu.be/vfjOfJTYVzQ) | [Free Movie Central Español](https://www.youtube.com/channel/UC83PjiHpndUTJGqtLZaYd4A) | 1.1K | 126.8K | ×120 | 134 |
-| [What Happened to Drake’s Original Crew!?](https://youtu.be/d7LNwl5pTrE) | [Answered Honestly ](https://www.youtube.com/channel/UCBxwq8R8jPUP07Z_-wqMZ1w) | 958 | 111.8K | ×117 | 34 |
-| [Brain Power  Test / Can You Solve This ? Live / Hameed Asmr ](https://youtu.be/g2kJrRkX-cw) | [Hameed Asmr](https://www.youtube.com/channel/UCChJJlzuFUc5G2MzVnPYRww) | 12.8K | 1.5M | ×116 | 62 |
-| [The 900 Filipinos Who Refused to Retreat — The Battle of Yul](https://youtu.be/dyzur4Sd4Lk) | [38th Parallel Files](https://www.youtube.com/channel/UCPoD0lf62KDSsCeD2hHRHog) | 2.8K | 323.6K | ×115 | 96 |
-| [Brain Power  Test / Can You Solve This ? Live / Hameed Asmr ](https://youtu.be/dCXh6sYkUGo) | [Hameed Asmr](https://www.youtube.com/channel/UCChJJlzuFUc5G2MzVnPYRww) | 12.8K | 1.4M | ×111 | 62 |
-| [Leben in BOLIVIEN: Günstig, Schöne Frauen & Unfassbare Kultu](https://youtu.be/dt9AnhCwDQQ) | [Lebenshaltungskosten](https://www.youtube.com/channel/UC5W5ocCQJgnZNpkedDofSTQ) | 172 | 18.8K | ×109 | 2033 |
-| [DEUTSCHE BAHN: Wie die pünktlichste Bahn der Welt absichtlic](https://youtu.be/aJdiiQs9Q8Q) | [Dunkle Historie](https://www.youtube.com/channel/UCRVQb2aIsAts9k50OCcAdUw) | 590 | 63.7K | ×108 | 51 |
-| [Путин,Трамп и Си хотят поделить мир как в 1945,заморозка вой](https://youtu.be/l7YidJci-4I) | [ГРА В РУСНЮ](https://www.youtube.com/channel/UCV4f05jjGMancRpepp3Eeww) | 4.7K | 489.2K | ×105 | 301 |
-| [66 ЛЕТ назад учёные вычислили ДЕНЬ, когда Земля ПЕРЕПОЛНИТСЯ](https://youtu.be/zgdXfG6Ndv4) | [След Личности](https://www.youtube.com/channel/UC0MwDMpMYGuExbMPfYxJ1GA) | 1.8K | 184.7K | ×101 | 7414 |
-| [¿Por Qué ESTADOS UNIDOS Lanzó las Bombas Atómicas sobre JAPÓ](https://youtu.be/R9ZjkhY640o) | [Time Historix](https://www.youtube.com/channel/UCCxmH1iDxmZU9Asf14zfHXQ) | 802 | 78.0K | ×97 | 1457 |
-| [He Wanted To Reveal His Wife’s Disgusting Secret….4 Days Lat](https://youtu.be/oeq1GWTQjyU) | [Deeply Criminal](https://www.youtube.com/channel/UCHuT42wxxfhgtGY9y3DRuaw) | 1.7K | 159.2K | ×95 | 71 |
-| [Der WAHRE Grund, warum Sie nach 60 nachts zum Pinkeln aufwac](https://youtu.be/VJ5VRT2f5vo) | [Dr. Elite Senior](https://www.youtube.com/channel/UCg1Gjks8IuxjwEeIncf41UQ) | 740 | 68.1K | ×92 | 23 |
-| [Por Qué la Evolución Sigue Convirtiendo Animales en Lobos.](https://youtu.be/9fFXu1LToyM) | [Archivos Salvajes](https://www.youtube.com/channel/UC5ZdzXH5XDvnZ4HKNbz7Rqg) | 1.6K | 145.0K | ×91 | 2659 |
-| [Judge Dredd Lore & History / Mega-City One and the Cursed Ea](https://youtu.be/D3pnGzuVx84) | [AREMACIELO](https://www.youtube.com/channel/UCcYlQVzWCQDBQfvnSonGITQ) | 4.6K | 407.0K | ×88 | 45 |
-| [HOW TO LOVE YOU - CLINTON JOSHUA,ANGEL UNIGWE,ANNABEL APARA,](https://youtu.be/x5qeXrp6kR4) | [giddyNollywood tv](https://www.youtube.com/channel/UCfMn80OZGlONKcwTu4DXWRg) | 3.6K | 303.4K | ×85 | 250 |
-| [Как СЕЙЧАС живёт красавица ИРИНА ЛЕОНОВА с 7-ю детьми после ](https://youtu.be/YU_fWmGcKVM) | [Ушедшие Легенды](https://www.youtube.com/channel/UCY1CgEXRZkbS0AYmLSIgGrg) | 3.9K | 333.6K | ×85 | 58 |
-| [Резкий бросок—И КУРИЦА ЛЕТИТ МНЕ В ЛИЦО...Гости замирают. Му](https://youtu.be/6mrE67G9s_k) | [Рассказы Со Слезами](https://www.youtube.com/channel/UCUIhEireZw-GXAdbQEpzxAg) | 921 | 76.4K | ×83 | 8 |
-| [ДИКИЙ ЯВАРИ / Чёрный ягуар против анаконды / Документальный ](https://youtu.be/UMNWHPSaJyg) | [Планета Хищников](https://www.youtube.com/channel/UCm4oRck4Kt73V5Ce5I6rmLQ) | 231 | 19.1K | ×83 | 16 |
-| [Как на самом деле жила дочь Петра I — Елизавета Петровна: ро](https://youtu.be/x9JFKprfMS8) | [Спокойная история](https://www.youtube.com/channel/UCew1CQLNaUCuIQHf1B2IZ7g) | 3.0K | 234.5K | ×79 | 186 |
-| [Brain Power  Test / Can You Solve This ? Live / Hameed Asmr ](https://youtu.be/_rAtFqgvbSE) | [Hameed Asmr](https://www.youtube.com/channel/UCChJJlzuFUc5G2MzVnPYRww) | 12.8K | 992.0K | ×77 | 62 |
-| [Vivir en HAITÍ: Dentro del País MÁS TEMIDO del Caribe / Docu](https://youtu.be/r5Rt7DNW2-M) | [Interless ESP](https://www.youtube.com/channel/UCLcQXMUpggA6iD2NpwzrhDQ) | 792 | 61.2K | ×77 | 52 |
-| [Россия теряет мигрантов? Почему Центральная Азия ищет другие](https://youtu.be/n0M8xE_i-7Y) | [ADVOKAT MEDIA](https://www.youtube.com/channel/UCZJFJ-I1-mjLJyIxjO5CmUg) | 2.6K | 198.3K | ×77 | 1240 |
-| [Жизнь в ИНДОНЕЗИИ: Красивые Женщины, Морские Кочевники Баджо](https://youtu.be/hP83RolCIyg) | [РЕАЛЬНАЯ ЖИЗНЬ РУ](https://www.youtube.com/channel/UCMs2SUrxHI16cqyyQAUyWzw) | 1.9K | 146.7K | ×76 | 3771 |
+| [LA SALSA QUE HIZO HISTORIA 🔥 Grupo Niche, Guayacán, Adolesce](https://youtu.be/6kwlv-VwGnw) | [Ritmo Latino Clásico](https://www.youtube.com/channel/UCOVeigSyete5gs4optEB8Nw) | 903 | 617.0K | ×683 | 158 |
+| [Was Mit Ihrem Körper Im Geschlossenen Sarg Passiert — Ein Be](https://youtu.be/jWRjHVBHhKU) | [Heinrich Müller – Bestatter](https://www.youtube.com/channel/UCTRi3P9s22dMhKo1cobQhag) | 107 | 55.0K | ×514 | 2 |
+| [АЛАСТОР ПЕРЕСТАЛ ВПЕЧАТЛЯТЬ И ВОТ ПОЧЕМУ](https://youtu.be/5y8cuFIqlrw) | [KURT](https://www.youtube.com/channel/UCaHqHIZy-vvwfMaWBZygQww) | 164 | 63.2K | ×385 | 5 |
+| [¿Qué sucede si Trump pierde las elecciones de mitad de manda](https://youtu.be/k9astKrkJFY) | [김나라](https://www.youtube.com/channel/UCUdvYYe3boTYBDhd0FvWLRQ) | 421 | 148.1K | ×352 | 688 |
+| [Juegos De Calle - ¡Reto de Llenar Botellas con las Manos! ¿Q](https://youtu.be/ErEZ4rr_uFA) | [TEAM HOLAKA](https://www.youtube.com/channel/UCikPnSOp4OhYMXw3Ic0sRxQ) | 74 | 30.2K | ×302 | 20 |
+| [WTF Happened to Labubu?](https://youtu.be/V6-3wqQoxT0) | [Fortune & Fall](https://www.youtube.com/channel/UCDVhAmEXRKrJLTsKSAF-hBQ) | 3.0K | 893.2K | ×297 | 17 |
+| [Kamla / EP 01: Mama Ki Khoj / Kamla Horror Story / Bittu Sit](https://youtu.be/CkjweEHq1_k) | [Theuzaircartoon](https://www.youtube.com/channel/UCze5QgWlT4s-NflSeVffnYg) | 845 | 244.9K | ×290 | 15 |
+| [¿Por qué Jesús llamó «MUJER» a su propia madre? El verdadero](https://youtu.be/FmqYOSc9MGA) | [Biblia Revelada](https://www.youtube.com/channel/UCvnUKTt1KrOoEjdT8cOGFfQ) | 641 | 168.5K | ×263 | 72 |
+| [Главный парадокс Астерикса и Обеликса: Разбор франшизы](https://youtu.be/_-gQ9bJ9Ny8) | [Смотразбор](https://www.youtube.com/channel/UC3ZtEXIcP-uGhqyDQlxtuvQ) | 117 | 27.0K | ×231 | 203 |
+| [Por qué secuestré a mi jefe / Comedia romántica completa](https://youtu.be/0QiOHwe4Fgg) | [Free Movie Central Español](https://www.youtube.com/channel/UC83PjiHpndUTJGqtLZaYd4A) | 1.1K | 252.2K | ×221 | 135 |
+| [Finalmente descubren al asesino del Padre Patricio: ¿quién e](https://youtu.be/CaQkdht_BwM) | [Pedro Justo Berrío: Amor e His](https://www.youtube.com/channel/UCCPQRC9utSBsWIe6jQbPAlg) | 403 | 87.9K | ×218 | 11 |
+| [RETO RICA vs POBRE: ¡Mi HERMANA me ABANDONÓ por DINERO! 💔 Ka](https://youtu.be/RRWgkReRlYA) | [Mohd Fadzir](https://www.youtube.com/channel/UC3SWNR949OlPb-U5A7OCROQ) | 539 | 106.8K | ×198 | 2295 |
+| [SHOPPING-BUDGET FÜR BOTOX?! 😳 Guido gibt 0 Punkte! / Shoppin](https://youtu.be/0T8QOwU9Nok) | [Shopping Queen](https://www.youtube.com/channel/UCD9uprmvdOQqokd-NTaTCCw) | 10.3K | 2.0M | ×192 | 26 |
+| [АТЕРОСКЛЕРОЗ Боится Эту РЫБУ КАК ОГНЯ - Выжигает Холестерин ](https://youtu.be/uIyc_I08lQ0) | [Энергия Жизни](https://www.youtube.com/channel/UCYO0Jm1yNXXnBXMDgE5AaNg) | 2.5K | 468.6K | ×187 | 1889 |
+| [The Speed of Light (Finally) Explained in Depth](https://youtu.be/pQZH0xWXa_w) | [Superluminal](https://www.youtube.com/channel/UCu2fMjPJT6G-35rKU4zaOsA) | 2.3K | 408.2K | ×178 | 482 |
+| [¿Por Qué los Indígenas No Tenían Barba? (Y los Españoles Sí)](https://youtu.be/C5Yj6X9ac-Q) | [Sobrevivir Sin Nada](https://www.youtube.com/channel/UCAMdB9EAB8GzU9Wt4faz5vg) | 924 | 161.1K | ×174 | 32 |
+| [Косатка против Белого медведя — БИТВА двух высших хищников  ](https://youtu.be/E1yqOLJOflY) | [Инстинкт Природы](https://www.youtube.com/channel/UCojGSZ4CsOon-DLxaG86C8g) | 144 | 24.8K | ×172 | 7107 |
+| [Not Ai! Let's build our choo choo Charles, unboxing and asse](https://youtu.be/GaSTb54MPFo) | [REDEECRAFTX](https://www.youtube.com/channel/UCmDwnrAc8tuFOKw0MV9IDHQ) | 2.1K | 327.4K | ×155 | 425 |
+| [Документальный фильм  "Кто ты , мама ?"](https://youtu.be/zRPO5X82ZYw) | [BySOBOL](https://www.youtube.com/channel/UCYHpC4F0aiaq2uAHmUX2eAg) | 44 | 15.2K | ×152 | 2151 |
+| [Billionaire Disguised as a Servant to Test a Rich Family — W](https://youtu.be/eS_1-ZF--b8) | [Emotional Life Stories](https://www.youtube.com/channel/UCxQnOIOxCScC8BVCWrWwABg) | 1.1K | 160.8K | ×149 | 23 |
+| [What Would Smosh Do? / Introducing the new cast!](https://youtu.be/_YxnVKGdc5Q) | [ScreenRant Studio](https://www.youtube.com/channel/UCtOYTcW2lnuV2-8yEyH88Ww) | 2.5K | 352.7K | ×143 | 509 |
+| [Meine Schwester lachte: „Du kannst das Kleid nie bezahlen!“ ](https://youtu.be/iC4wOUTEuoA) | [RacheErzählt](https://www.youtube.com/channel/UC2PlAtdXA6SNFmNPE3B4nsA) | 159 | 22.7K | ×143 | 202 |
+| [¿Por qué Argentina dejó de ser potencia? La historia real](https://youtu.be/QVCeJURMU1Q) | [Curiosito](https://www.youtube.com/channel/UCii4DSfg0o5hu9r-zA1QbhQ) | 1.0K | 137.6K | ×136 | 7 |
+| [The 900 Filipinos Who Refused to Retreat — The Battle of Yul](https://youtu.be/dyzur4Sd4Lk) | [38th Parallel Files](https://www.youtube.com/channel/UCPoD0lf62KDSsCeD2hHRHog) | 2.9K | 374.7K | ×129 | 97 |
+| [What Happened to Drake’s Original Crew!?](https://youtu.be/d7LNwl5pTrE) | [Answered Honestly ](https://www.youtube.com/channel/UCBxwq8R8jPUP07Z_-wqMZ1w) | 990 | 121.1K | ×122 | 35 |
+| [Brain Power  Test / Can You Solve This ? Live / Hameed Asmr ](https://youtu.be/g2kJrRkX-cw) | [Hameed Asmr](https://www.youtube.com/channel/UCChJJlzuFUc5G2MzVnPYRww) | 13.0K | 1.5M | ×115 | 63 |
+| [Brain Power  Test / Can You Solve This ? Live / Hameed Asmr ](https://youtu.be/dCXh6sYkUGo) | [Hameed Asmr](https://www.youtube.com/channel/UCChJJlzuFUc5G2MzVnPYRww) | 13.0K | 1.4M | ×109 | 63 |
+| [DEUTSCHE BAHN: Wie die pünktlichste Bahn der Welt absichtlic](https://youtu.be/aJdiiQs9Q8Q) | [Dunkle Historie](https://www.youtube.com/channel/UCRVQb2aIsAts9k50OCcAdUw) | 621 | 67.5K | ×109 | 52 |
+| [Путин,Трамп и Си хотят поделить мир как в 1945,заморозка вой](https://youtu.be/l7YidJci-4I) | [ГРА В РУСНЮ](https://www.youtube.com/channel/UCV4f05jjGMancRpepp3Eeww) | 4.7K | 489.3K | ×105 | 302 |
+| [RETO: 24 HORAS ESPOSADOS 😱 ¿Qué pareja es la MEJOR? CASTIGO ](https://youtu.be/k600k1xZDtA) | [Mohd Fadzir](https://www.youtube.com/channel/UC3SWNR949OlPb-U5A7OCROQ) | 539 | 56.1K | ×104 | 2295 |
+| [New Trending Pakistani Drama Review / Zarar Ayesha love Stor](https://youtu.be/6O71xY9CrhE) | [Mr Nobody](https://www.youtube.com/channel/UCBBvhxkttuUDdFCj34afc5g) | 7.0K | 707.6K | ×102 | 53 |
+| [Por Qué la Evolución Sigue Convirtiendo Animales en Lobos.](https://youtu.be/9fFXu1LToyM) | [Archivos Salvajes](https://www.youtube.com/channel/UC5ZdzXH5XDvnZ4HKNbz7Rqg) | 1.7K | 166.4K | ×100 | 2660 |
+| [HOW TO LOVE YOU - CLINTON JOSHUA,ANGEL UNIGWE,ANNABEL APARA,](https://youtu.be/x5qeXrp6kR4) | [giddyNollywood tv](https://www.youtube.com/channel/UCfMn80OZGlONKcwTu4DXWRg) | 3.7K | 349.9K | ×96 | 251 |
+| [Por Qué Tito Trinidad Perdió $63 Millones Sin Enterarse...No](https://youtu.be/QNdFuNgHdnw) | [Fortunas del Mundo](https://www.youtube.com/channel/UCoIzyz3lcritb1YONkAyPvw) | 795 | 69.7K | ×88 | 7131 |
+| [Как Умер Каждый Печально Известный Диктатор](https://youtu.be/2TlLv6RTMAo) | [Тёмный сигнал](https://www.youtube.com/channel/UC9JOyV7_etMpV335JGFT14w) | 1.3K | 114.4K | ×87 | 5 |
+| [ДИКИЙ ЯВАРИ / Чёрный ягуар против анаконды / Документальный ](https://youtu.be/UMNWHPSaJyg) | [Планета Хищников](https://www.youtube.com/channel/UCm4oRck4Kt73V5Ce5I6rmLQ) | 236 | 19.9K | ×84 | 17 |
+| [The Entire Story of How to Get Away with Murder](https://youtu.be/S75PlwjYGqI) | [Rewindly](https://www.youtube.com/channel/UCf2eHMYUpNPmGbeZYdhMumQ) | 2.7K | 223.3K | ×84 | 516 |
+| [MONKEY GANG! 2 Cheeky Monkeys Turn a Leopard Into a JOKE! / ](https://youtu.be/HpUEknLTysU) | [Wildlife Documentary 8888](https://www.youtube.com/channel/UCd_1V3WMWeXE6bKjZ5RtwGA) | 2.3K | 196.4K | ×84 | 3918 |
+| [Россия теряет мигрантов? Почему Центральная Азия ищет другие](https://youtu.be/n0M8xE_i-7Y) | [ADVOKAT MEDIA](https://www.youtube.com/channel/UCZJFJ-I1-mjLJyIxjO5CmUg) | 2.6K | 214.8K | ×82 | 1241 |
+| [Почему Красное море — самое экстремальное на Земле](https://youtu.be/Z_0jtRBFh4A) | [RealDoc](https://www.youtube.com/channel/UC82jFv07VEyBMA4lR0u0HXw) | 2.2K | 182.1K | ×81 | 4066 |
+| [THE GREAT FOX DISASTER! Two Angry Eagles Chase One Thief! / ](https://youtu.be/Xe-qx_UCanE) | [Wildlife Documentary 8888](https://www.youtube.com/channel/UCd_1V3WMWeXE6bKjZ5RtwGA) | 2.3K | 190.0K | ×81 | 3918 |
+| [He Threw Out His Pregnant Wife For Another woman, Then Her D](https://youtu.be/K5fvFwo6Phc) | [Mari AI Stories](https://www.youtube.com/channel/UCT1RliODuUdTkuVqT4MiZ3w) | 4.5K | 362.7K | ×81 | 4449 |
+| [Vivir en HAITÍ: Dentro del País MÁS TEMIDO del Caribe / Docu](https://youtu.be/r5Rt7DNW2-M) | [Interless ESP](https://www.youtube.com/channel/UCLcQXMUpggA6iD2NpwzrhDQ) | 814 | 65.4K | ×80 | 53 |
+| [24 часа из жизни Султанской Дочери (в Османской Империи)](https://youtu.be/W1lXlwVqt7Y) | [ Восточные дни](https://www.youtube.com/channel/UCDhqyNWQwbRNlb6eFZnjDaQ) | 1.4K | 112.8K | ×78 | 17 |
+| [Жизнь в ИНДОНЕЗИИ: Красивые Женщины, Морские Кочевники Баджо](https://youtu.be/hP83RolCIyg) | [РЕАЛЬНАЯ ЖИЗНЬ РУ](https://www.youtube.com/channel/UCMs2SUrxHI16cqyyQAUyWzw) | 2.0K | 153.1K | ×78 | 3772 |
+| [Que pasará cuando CAIGA Kim Jong Un en COREA DEL NORTE](https://youtu.be/K2ltjpHrHsA) | [Bajo El Régimen](https://www.youtube.com/channel/UCEsUUw0TT2EwTOQWqJKOQUA) | 2.5K | 192.7K | ×77 | 39 |
+| [Brain Power  Test / Can You Solve This ? Live / Hameed Asmr ](https://youtu.be/7AEIRZuwr-I) | [Hameed Asmr](https://www.youtube.com/channel/UCChJJlzuFUc5G2MzVnPYRww) | 13.0K | 998.2K | ×77 | 63 |
+| [Brain Power  Test / Can You Solve This ? Live / Hameed Asmr ](https://youtu.be/_rAtFqgvbSE) | [Hameed Asmr](https://www.youtube.com/channel/UCChJJlzuFUc5G2MzVnPYRww) | 13.0K | 991.6K | ×76 | 63 |
+| [Brain Power  Test / Can You Solve This ? Live / Hameed Asmr ](https://youtu.be/ubVWoc3R1QM) | [Hameed Asmr](https://www.youtube.com/channel/UCChJJlzuFUc5G2MzVnPYRww) | 13.0K | 891.9K | ×69 | 63 |
+| [Почему умные пожилые люди предпочитают оставаться дома — на ](https://youtu.be/PRN0UDpDSC0) | [ Myself Again](https://www.youtube.com/channel/UCkbSpQnMyk6a4jwqBrKslHg) | 2.7K | 178.2K | ×66 | 112 |
 
 Таблицы для Excel: `niches.csv`, `outlier_videos.csv`.
